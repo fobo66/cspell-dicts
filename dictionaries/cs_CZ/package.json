@@ -1,6 +1,6 @@
 {
   "name": "@cspell/dict-cs-cz",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Czech dictionary for cspell.",
   "publishConfig": {
     "access": "public"
@@ -11,9 +11,10 @@
     "./cspell-ext.json": "./cspell-ext.json"
   },
   "scripts": {
-    "build": "cspell-tools-cli build && yarn prepare",
+    "build": "cspell-tools-cli build && pnpm prepare:dictionary",
+    "build:conditional": "cspell-tools-cli build --conditional && pnpm prepare:dictionary",
     "test": "hunspell-reader words -n 1000 src/Czech.dic | cspell -v -c ./cspell-ext.json --local=cs --languageId=* stdin",
-    "prepare": "gzip -f -k *.trie",
+    "prepare:dictionary": "cspell-tools-cli gzip \"*.trie\"",
     "prepublishOnly": "echo pre-publish"
   },
   "repository": {

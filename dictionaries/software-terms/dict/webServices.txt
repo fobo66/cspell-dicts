@@ -2,6 +2,14 @@
 # cspell-tools: keep-case no-split
 
 Appointedd
-Calendly
-Todoist
+bunnycdn
+calendly
+caniuse
+cdnjs
 imessage
+jsdelivr
+musixmatch
+netlify
+probot
+todoist
+unpkg

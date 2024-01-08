@@ -79,6 +79,8 @@ ignoreeof
 in
 inlib
 jobs
+keymap
+keymaps
 keyrings
 keyword
 kill
@@ -133,6 +135,7 @@ pushd
 pwd
 read
 readarray
+readline
 READLINE_LINE
 READLINE_MARK
 READLINE_POINT

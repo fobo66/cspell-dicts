@@ -1,6 +1,6 @@
 {
   "name": "@cspell/dict-tr-tr",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Turkish dictionary for cspell.",
   "publishConfig": {
     "access": "public"
@@ -11,8 +11,13 @@
     "./cspell-ext.json": "./cspell-ext.json"
   },
   "scripts": {
-    "build": "cspell-tools compile-trie \"Turkish.dic\" -o .",
-    "test": "hunspell-reader words -n 1000 \"Turkish.dic\" | cspell -v -c ./cspell-ext.json --local=tr --languageId=* stdin",
+    "build": "cspell-tools-cli build && pnpm gz",
+    "build:conditional": "cspell-tools-cli build --conditional && pnpm gz",
+    "gz": "cspell-tools-cli gzip \"*.trie\"",
+    "prepare:dictionary": "pnpm gz",
+    "test:dict": "hunspell-reader words -n 1000 \"src/hunspell/Turkish.dic\" | cspell -c ./cspell-ext.json --local=tr --languageId=* stdin",
+    "test:samples": "cspell samples",
+    "test": "pnpm test:dict && pnpm test:samples",
     "prepublishOnly": "echo pre-publish"
   },
   "repository": {

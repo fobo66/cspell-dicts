@@ -40,6 +40,7 @@ MACHTYPE
 MAIL
 MAILCHECK
 MAILPATH
+MANPAGER
 MANPATH
 OLDPWD
 OPTERR
@@ -74,10 +75,12 @@ TZ
 UID
 alias
 allexport
+autoload
 autoremove
 bashscript
 bg
 bind
+bindkey
 braceexpand
 break
 builtin
@@ -89,6 +92,7 @@ compadd
 compctl
 compdef
 compgen
+compinit
 complete
 compopt
 continue
@@ -146,6 +150,7 @@ mkdir
 monitor
 mvim
 myzsh
+neovim
 newgidmap
 newuidmap
 noclobber
@@ -163,6 +168,7 @@ popd
 posix
 printf
 privileged
+promptinit
 proxyd
 pushd
 pwd
@@ -206,3 +212,4 @@ wait
 while
 xtrace
 zshconfig
+zstyle

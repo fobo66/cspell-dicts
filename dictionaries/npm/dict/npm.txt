@@ -57,6 +57,7 @@ browserslist
 bunyan
 busboy
 cache-manager
+caniuse
 canvas
 casperjs
 chai
@@ -71,11 +72,13 @@ cli
 cli-color
 cli-table
 clone
+clsx
 co
 coffee-script
 colors
 commander
 commitizen
+commitlint
 compression
 concat-stream
 concurrently
@@ -102,6 +105,7 @@ crypto-js
 cson-parser
 css
 css-loader
+cssnano
 csurf
 csv
 csvtojson
@@ -119,6 +123,7 @@ discord
 discordjs
 dist
 dnode
+docgen
 docpad
 documentdb
 docusaurus
@@ -146,6 +151,7 @@ eslintcache
 eslintignore
 eslintrc
 esprima
+estree
 event-stream
 eventemitter2
 events
@@ -323,11 +329,13 @@ hapi
 hbs
 heapdump
 helmet
+heroicons
 hexo
 highlight
 history
 hoek
 homebridge
+hookform
 how-to-npm
 html-minifier
 html-pdf
@@ -403,6 +411,7 @@ less
 level
 levelup
 liftoff
+linkcss
 lite-server
 live-server
 livereload
@@ -415,7 +424,9 @@ log4js
 loopback
 lowdb
 lru-cache
+lucide
 lwip
+lyricssearchermusixmatch
 main-bower-files
 mapboxgl
 markdown
@@ -472,6 +483,8 @@ nedb
 needle
 newman
 newrelic
+nextauth
+nextjs
 ngrok
 nib
 nightmare
@@ -540,6 +553,7 @@ pi-gpio
 pm2
 pnpify
 pnpm
+pnpx
 postcss
 posthtml
 pouchdb
@@ -631,8 +645,10 @@ string
 stripe
 strongloop
 style-loader
+stylelint
 stylus
 superagent
+superjson
 supertest
 supertest-as-promised
 supervisor
@@ -641,6 +657,9 @@ sveltejs
 sveltekit
 svgo
 swig
+tailwind
+tailwindcss
+tanstack
 tap
 tape
 tar
@@ -652,6 +671,7 @@ through2
 thunkify
 time-grunt
 tmp
+trpc
 trumpet
 tsd
 tslint
@@ -660,6 +680,7 @@ twit
 twitter
 typedoc
 typedocs
+typegen
 typegoose
 typescript
 typescript-formatter
@@ -714,6 +735,7 @@ xlsx
 xml2js
 xmldom
 xregexp
+xstate
 xtend
 xterm
 yamljs

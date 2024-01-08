@@ -81,11 +81,11 @@ ASSIGN
 ASSOCIATIVE
 AST
 ASYNC
+AT
 ATTACH
 ATTRIB
 ATTRIBUTES
 AT_REMOVEDIR
-AT_SYMLINK_NOFOLLOW
 AUDIT
 AUTH
 AUX
@@ -1889,6 +1889,7 @@ NI_NAMEREQD
 NL
 NO
 NOFLSH
+NOFOLLOW
 NONCONFORMING
 NONE
 NOPUSH
@@ -1997,7 +1998,6 @@ O_EVTONLY
 O_EXLOCK
 O_NDELAY
 O_NOCTTY
-O_NOFOLLOW
 O_NONBLOCK
 O_RDONLY
 O_RDWR
@@ -3910,12 +3910,10 @@ Ugaritic
 Uitoa
 UnaddressableFieldAssign
 UnaddressableOperand
-UnassignableOperand
 Undelete
 UnixMilli
 Unlinkat
 Unlockpt
-Unmap
 Unmarshal
 Unmarshaler
 Unsetenv
@@ -5728,6 +5726,7 @@ uintptr
 uleb
 umask
 unary
+unassignable
 unassociated
 unauthorized
 unavailable
@@ -5756,6 +5755,7 @@ unixpacket
 unknown
 unlink
 unlock
+unmap
 unmount
 unpack
 unprocessable

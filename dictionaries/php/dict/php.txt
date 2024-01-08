@@ -42,6 +42,7 @@ DOMXPath
 DSN
 DTD
 Ev
+FQCN
 FS
 Fourier
 GMT
@@ -69,6 +70,8 @@ KTaglib_MPEG_AudioProperties
 KTaglib_MPEG_File
 KTaglib_Tag
 Lapack
+Laragon
+Laravel
 MSE
 Mlt
 Mongo
@@ -119,6 +122,7 @@ PDF_stringwidth
 PDO
 PDO_DBLIB
 PDO_INFORMIX
+PSR
 RCVTIMEO
 RGB
 RGBA
@@ -139,6 +143,7 @@ SeekableIterator
 Solr
 Spl
 Spoofchecker
+Stringable
 Superglobals
 Tokyo
 UTC
@@ -866,7 +871,7 @@ else
 elseif
 emancipate
 embed
-embeddableBackends
+embeddable
 embedded
 emboss
 embossimage
@@ -2388,6 +2393,7 @@ pcntl_wstopsig
 pcntl_wtermsig
 pconnect
 pcos
+pcov
 pdf
 pdgblock
 pdi
@@ -2422,6 +2428,9 @@ phpapi
 phpcredits
 phpdoc
 phpinfo
+phpmd
+phpstan
+phpunit
 phpversion
 phrase
 pi
@@ -2569,6 +2578,7 @@ ps_setoverprintmode
 ps_setpolydash
 ps_shfill
 ps_stringwidth
+psalm
 pseudo
 pspell
 pspell_config_runtogether

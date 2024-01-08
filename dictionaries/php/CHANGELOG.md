@@ -22,6 +22,29 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-php@4.0.3...@cspell/dict-php@4.0.4) (2023-10-18)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/streetsidesoftware/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/streetsidesoftware/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+
+## [4.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-php@4.0.2...@cspell/dict-php@4.0.3) (2023-09-14)
+
+
+### Updates and Bug Fixes
+
+* Add some language terms for the "php" dict ([#2500](https://github.com/streetsidesoftware/cspell-dicts/issues/2500)) ([3db3e52](https://github.com/streetsidesoftware/cspell-dicts/commit/3db3e5271fa0e2b177b16b7df689db0a9441ebf2))
+* Workflow Bot -- Build Dictionaries ([#2502](https://github.com/streetsidesoftware/cspell-dicts/issues/2502)) ([9898793](https://github.com/streetsidesoftware/cspell-dicts/commit/98987935c99603c45ee6c50b1bf45b2ba5772efb))
+
+## [4.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-php@4.0.1...@cspell/dict-php@4.0.2) (2023-08-21)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2416](https://github.com/streetsidesoftware/cspell-dicts/issues/2416)) ([d728dc8](https://github.com/streetsidesoftware/cspell-dicts/commit/d728dc818244edbc8b54700aa85d4012e482cc51))
+* Workflow Bot -- Build Dictionaries ([#2418](https://github.com/streetsidesoftware/cspell-dicts/issues/2418)) ([b5d98ef](https://github.com/streetsidesoftware/cspell-dicts/commit/b5d98ef8b69ed78f6c46abad3aa51f855a5a056b))
+
 ## [4.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-php@4.0.0...@cspell/dict-php@4.0.1) (2023-03-14)
 
 

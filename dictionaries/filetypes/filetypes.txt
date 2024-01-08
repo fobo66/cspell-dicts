@@ -55,6 +55,7 @@ config
 cpp
 cpt
 cpy
+crx
 cshtml
 csl
 cson
@@ -77,6 +78,7 @@ docm
 docx
 dot
 dotx
+drawio
 dsql
 dtd
 dtml
@@ -149,6 +151,7 @@ jav
 java
 javascript
 javascriptreact
+jenkinsfile
 jmx
 jpeg
 jpg
@@ -200,6 +203,7 @@ owl
 p6
 patch
 pdf
+pem
 perl
 perl6
 php
@@ -241,6 +245,7 @@ pub
 pubxml
 pubxmluser
 pug
+puml
 py
 python
 pyw
@@ -368,3 +373,4 @@ zsh
 zshenv
 zshrc
 zshtheme
+lcov

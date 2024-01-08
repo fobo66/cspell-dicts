@@ -22,6 +22,28 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-lt-lt@3.0.0...@cspell/dict-lt-lt@4.0.0) (2023-11-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/streetsidesoftware/cspell-dicts/issues/2627))
+
+### Features
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/streetsidesoftware/cspell-dicts/issues/2627)) ([56a266a](https://github.com/streetsidesoftware/cspell-dicts/commit/56a266aafdcde83043b92022dd0ae187c1d53498))
+
+## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-lt-lt@2.0.0...@cspell/dict-lt-lt@3.0.0) (2023-08-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade lt_LT Dictionary ([#2440](https://github.com/streetsidesoftware/cspell-dicts/issues/2440))
+
+### Features
+
+* Upgrade lt_LT Dictionary ([#2440](https://github.com/streetsidesoftware/cspell-dicts/issues/2440)) ([5a4960c](https://github.com/streetsidesoftware/cspell-dicts/commit/5a4960c29167f7d0a56df281e3a31ea466dc68c3))
+
 ## [1.0.16](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-lt-lt@1.0.15...@cspell/dict-lt-lt@1.0.16) (2020-11-28)
 
 **Note:** Version bump only for package @cspell/dict-lt-lt

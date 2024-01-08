@@ -319,6 +319,7 @@ COST
 CPC
 CPRT
 CRH
+CSAIL
 CSCO
 CST
 CSX
@@ -418,6 +419,7 @@ Classification
 Cliffs
 Clorox
 Cloudflare
+Cloudinary
 Co
 Coach
 Coal
@@ -514,6 +516,7 @@ Delft
 Delhaize
 Delhi
 Dell
+Deloitte
 Delta
 Denki
 Denmark
@@ -528,6 +531,7 @@ Devices
 Devon
 DexCom
 Dexia
+Dezzai
 Diagnostics
 Diamondback
 Dick's
@@ -587,6 +591,7 @@ Edeka
 Edinburgh
 Edison
 Edwards
+Egnyte
 Eindhoven
 Electric
 Electricite
@@ -865,6 +870,7 @@ Husky
 Hutchison
 Hyundai
 I
+ICCC
 IDEX
 IDXX
 IHS
@@ -880,6 +886,7 @@ IP
 IPG
 IPGP
 IQVIA
+ISEA
 ISRG
 Iberdrola
 Icahn
@@ -1092,6 +1099,7 @@ Lowe's
 Ltd
 Lufthansa
 Lukoil
+Lumitics
 Lund
 Lutherans
 Lyft
@@ -1189,6 +1197,7 @@ Microchip
 Micron
 Microsoft
 Mid-America
+Midjourney
 Midland
 Migros
 Milano
@@ -1236,6 +1245,7 @@ Movil
 Mozilla
 Munich
 Murphy
+Musixmatch
 Mutual
 Mylan
 N
@@ -1328,6 +1338,7 @@ ONEOK
 ORCL
 ORLEN
 ORLY
+OSDI
 OTIS
 Oaktree
 Occidental
@@ -1345,6 +1356,9 @@ Omnicom
 One
 Onex
 Ontario
+OpenAI
+OpenDNS
+Openbase
 Opscode
 Oracle
 Osaka
@@ -1503,6 +1517,7 @@ QuoVadis
 R
 RBS
 REGN
+RIMAS
 RMIT
 ROST
 RWE
@@ -1577,6 +1592,7 @@ SBAC
 SBUX
 SCHW
 SHV
+SIGKDD
 SIVB
 SK
 SL
@@ -1854,7 +1870,10 @@ Twitter
 Tyler
 Tyson
 Tübingen
+U
+UAE
 UBS
+UC
 UCLA
 UCSI
 UDR
@@ -1867,6 +1886,7 @@ UNSW
 URS
 US
 USA
+USENIX
 Uber
 Ulta
 Ultrapar
@@ -1998,6 +2018,7 @@ Xbox
 Xcel
 Xerox
 Xi'an
+Xiaomi
 Xilinx
 Xinxing
 Xstrata
@@ -2037,7 +2058,6 @@ Zurich
 and
 at
 catholic
-cdnjs
 chile
 clockify
 com
@@ -2060,4 +2080,3 @@ ru
 synology
 undraw
 university
-unpkg

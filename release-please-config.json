@@ -238,6 +238,10 @@
             "component": "@cspell/dict-fr-reforme",
             "releaseType": "node"
         },
+        "dictionaries/fsharp": {
+            "component": "@cspell/dict-fsharp",
+            "releaseType": "node"
+        },
         "dictionaries/fullstack": {
             "component": "@cspell/dict-fullstack",
             "releaseType": "node"
@@ -286,6 +290,10 @@
             "component": "@cspell/dict-k8s",
             "releaseType": "node"
         },
+        "dictionaries/kotlin": {
+            "component": "@cspell/dict-kotlin",
+            "releaseType": "node"
+        },
         "dictionaries/latex": {
             "component": "@cspell/dict-latex",
             "releaseType": "node"
@@ -300,6 +308,14 @@
         },
         "dictionaries/lua": {
             "component": "@cspell/dict-lua",
+            "releaseType": "node"
+        },
+        "dictionaries/lv": {
+            "component": "@cspell/dict-lv",
+            "releaseType": "node"
+        },
+        "dictionaries/makefile": {
+            "component": "@cspell/dict-makefile",
             "releaseType": "node"
         },
         "dictionaries/markdown": {
@@ -390,6 +406,10 @@
             "component": "@cspell/dict-scala",
             "releaseType": "node"
         },
+        "dictionaries/scientific_terms_GB": {
+            "component": "@cspell/dict-scientific-terms-gb",
+            "releaseType": "node"
+        },
         "dictionaries/scientific_terms_US": {
             "component": "@cspell/dict-scientific-terms-us",
             "releaseType": "node"
@@ -448,6 +468,10 @@
         },
         "dictionaries/vi_VN": {
             "component": "@cspell/dict-vi-vn",
+            "releaseType": "node"
+        },
+        "dictionaries/vim": {
+            "component": "@cspell/dict-vim",
             "releaseType": "node"
         },
         "dictionaries/vue": {

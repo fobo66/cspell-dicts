@@ -3,6 +3,109 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.28](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.27...@cspell/dict-companies@3.0.28) (2023-11-19)
+
+
+### Updates and Bug Fixes
+
+* add various terms ([#2734](https://github.com/streetsidesoftware/cspell-dicts/issues/2734)) ([1058a2c](https://github.com/streetsidesoftware/cspell-dicts/commit/1058a2c5a53bd9aa72958943062d4d454678c2f5))
+
+## [3.0.27](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.26...@cspell/dict-companies@3.0.27) (2023-10-30)
+
+
+### Updates and Bug Fixes
+
+* add CSAIL to companies ([#2681](https://github.com/streetsidesoftware/cspell-dicts/issues/2681)) ([7c5dd5a](https://github.com/streetsidesoftware/cspell-dicts/commit/7c5dd5a76640350281d791071e9ad12d5dff8e48))
+* add CSAIL to companies ([#2687](https://github.com/streetsidesoftware/cspell-dicts/issues/2687)) ([e194b0c](https://github.com/streetsidesoftware/cspell-dicts/commit/e194b0cdf3d1d7457ef708f01d1a4bf6bb49b47f))
+* Workflow Bot -- Build Dictionaries ([#2684](https://github.com/streetsidesoftware/cspell-dicts/issues/2684)) ([e57b4e2](https://github.com/streetsidesoftware/cspell-dicts/commit/e57b4e20295dc7b1cc3207799711f7b4331042cc))
+
+## [3.0.26](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.25...@cspell/dict-companies@3.0.26) (2023-10-05)
+
+
+### Updates and Bug Fixes
+
+* add Cloudinary and Egnyte to companies ([#2602](https://github.com/streetsidesoftware/cspell-dicts/issues/2602)) ([88a5d61](https://github.com/streetsidesoftware/cspell-dicts/commit/88a5d6136df21f65d284df8e2e94f2251a35ae3c))
+* Workflow Bot -- Build Dictionaries ([#2603](https://github.com/streetsidesoftware/cspell-dicts/issues/2603)) ([72a9dd6](https://github.com/streetsidesoftware/cspell-dicts/commit/72a9dd6798dc6d5f45c0d28f73b9c7b12967acc1))
+
+## [3.0.25](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.24...@cspell/dict-companies@3.0.25) (2023-09-30)
+
+
+### Updates and Bug Fixes
+
+* add OpenDNS to companies ([#2575](https://github.com/streetsidesoftware/cspell-dicts/issues/2575)) ([cd70193](https://github.com/streetsidesoftware/cspell-dicts/commit/cd701938b1f3e55eda1138375b22a1495fa2069e))
+* Workflow Bot -- Build Dictionaries ([#2579](https://github.com/streetsidesoftware/cspell-dicts/issues/2579)) ([69b820a](https://github.com/streetsidesoftware/cspell-dicts/commit/69b820aacae3abdf41e9b6f16a8b35afd6838bad))
+
+## [3.0.24](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.23...@cspell/dict-companies@3.0.24) (2023-09-21)
+
+
+### Updates and Bug Fixes
+
+* add some missing words ([#2525](https://github.com/streetsidesoftware/cspell-dicts/issues/2525)) ([d6c2665](https://github.com/streetsidesoftware/cspell-dicts/commit/d6c26652e2d4200868f7ddf817a057f8e3625463))
+* Workflow Bot -- Build Dictionaries ([#2537](https://github.com/streetsidesoftware/cspell-dicts/issues/2537)) ([1c8c080](https://github.com/streetsidesoftware/cspell-dicts/commit/1c8c0806bb50d3af5918f9526dbeaaaff5632fee))
+
+## [3.0.23](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.22...@cspell/dict-companies@3.0.23) (2023-09-21)
+
+
+### Updates and Bug Fixes
+
+* Add OpenAI to companies ([#2514](https://github.com/streetsidesoftware/cspell-dicts/issues/2514)) ([167e6ea](https://github.com/streetsidesoftware/cspell-dicts/commit/167e6eaa911305efdab3c3ba260c5942e42989b2))
+* Workflow Bot -- Build Dictionaries ([#2511](https://github.com/streetsidesoftware/cspell-dicts/issues/2511)) ([af0713c](https://github.com/streetsidesoftware/cspell-dicts/commit/af0713caa9f147e182c9025a950c1a4906d10ac6))
+
+## [3.0.22](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.21...@cspell/dict-companies@3.0.22) (2023-09-09)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2483](https://github.com/streetsidesoftware/cspell-dicts/issues/2483)) ([83a2db6](https://github.com/streetsidesoftware/cspell-dicts/commit/83a2db659dd2adbb61c10d4552663f68a21fb9f4))
+
+## [3.0.21](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.20...@cspell/dict-companies@3.0.21) (2023-09-01)
+
+
+### Updates and Bug Fixes
+
+* add xiaomi to companies ([#2460](https://github.com/streetsidesoftware/cspell-dicts/issues/2460)) ([9fcba04](https://github.com/streetsidesoftware/cspell-dicts/commit/9fcba04f794b0b7d923d8182a491083cb25eece3))
+* Workflow Bot -- Build Dictionaries ([#2461](https://github.com/streetsidesoftware/cspell-dicts/issues/2461)) ([c7ee44e](https://github.com/streetsidesoftware/cspell-dicts/commit/c7ee44e093b228df43620452995aecb0cc60b715))
+
+## [3.0.20](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.19...@cspell/dict-companies@3.0.20) (2023-08-21)
+
+
+### Updates and Bug Fixes
+
+* add RIMAS to companies ([#2399](https://github.com/streetsidesoftware/cspell-dicts/issues/2399)) ([990138f](https://github.com/streetsidesoftware/cspell-dicts/commit/990138fa925f78466fcf718cde869ac0220bbfe3))
+* Workflow Bot -- Build Dictionaries ([#2401](https://github.com/streetsidesoftware/cspell-dicts/issues/2401)) ([419b58e](https://github.com/streetsidesoftware/cspell-dicts/commit/419b58e1f7c3a56cc217ef59c19c23d2b3ca1f8e))
+
+## [3.0.19](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.18...@cspell/dict-companies@3.0.19) (2023-08-07)
+
+
+### Updates and Bug Fixes
+
+* add Deloitte Dezzai Lumitics Midjourney to companies.txt ([#2394](https://github.com/streetsidesoftware/cspell-dicts/issues/2394)) ([5bb0741](https://github.com/streetsidesoftware/cspell-dicts/commit/5bb0741df16f4459c7dc777bd573e53927aba02a))
+* Workflow Bot -- Build Dictionaries ([#2396](https://github.com/streetsidesoftware/cspell-dicts/issues/2396)) ([7b592c3](https://github.com/streetsidesoftware/cspell-dicts/commit/7b592c3f6bef378b36e6daab8da67f109d955846))
+
+## [3.0.18](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.17...@cspell/dict-companies@3.0.18) (2023-08-02)
+
+
+### Updates and Bug Fixes
+
+* Add words to various dicts ([#2381](https://github.com/streetsidesoftware/cspell-dicts/issues/2381)) ([fc610d4](https://github.com/streetsidesoftware/cspell-dicts/commit/fc610d48d9d10ce69be8f1b2a10180e58017d89e))
+* Workflow Bot -- Build Dictionaries ([#2383](https://github.com/streetsidesoftware/cspell-dicts/issues/2383)) ([cb4110d](https://github.com/streetsidesoftware/cspell-dicts/commit/cb4110d8d56bbda80c92a4d9d1831ff613fd54f8))
+
+## [3.0.17](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.16...@cspell/dict-companies@3.0.17) (2023-07-10)
+
+
+### Updates and Bug Fixes
+
+* add USENIX OSDI SIGKDD to companies.txt ([#2304](https://github.com/streetsidesoftware/cspell-dicts/issues/2304)) ([bf8609f](https://github.com/streetsidesoftware/cspell-dicts/commit/bf8609fe808448ff2bc98e7e8c65b55f0b985cce))
+* Workflow Bot -- Build Dictionaries ([#2306](https://github.com/streetsidesoftware/cspell-dicts/issues/2306)) ([a3a26ff](https://github.com/streetsidesoftware/cspell-dicts/commit/a3a26ffd42efbcf0f00207193d7541fc4ca503f8))
+
+## [3.0.16](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.15...@cspell/dict-companies@3.0.16) (2023-07-03)
+
+
+### Updates and Bug Fixes
+
+* add ICCC ISEA to companies.txt add xlarge microbatch leaderboard to data-science-terms.txt ([#2270](https://github.com/streetsidesoftware/cspell-dicts/issues/2270)) ([16f692b](https://github.com/streetsidesoftware/cspell-dicts/commit/16f692b4656b7a8d36422eb9f0461f4e52c7ad7e))
+* Workflow Bot -- Build Dictionaries ([#2286](https://github.com/streetsidesoftware/cspell-dicts/issues/2286)) ([86c1920](https://github.com/streetsidesoftware/cspell-dicts/commit/86c1920da481290a927d2ec10f689d4399fe1096))
+
 ## [3.0.15](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.14...@cspell/dict-companies@3.0.15) (2023-06-08)
 
 

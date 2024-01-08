@@ -3,6 +3,57 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.9...@cspell/dict-cpp@5.0.10) (2023-11-28)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2740](https://github.com/streetsidesoftware/cspell-dicts/issues/2740)) ([f79bf45](https://github.com/streetsidesoftware/cspell-dicts/commit/f79bf4552b87c0e8826f9542358b84ede0ff32da))
+
+## [5.0.9](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.8...@cspell/dict-cpp@5.0.9) (2023-10-18)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/streetsidesoftware/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/streetsidesoftware/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+
+## [5.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.7...@cspell/dict-cpp@5.0.8) (2023-10-11)
+
+
+### Updates and Bug Fixes
+
+* Add terms from [#556](https://github.com/streetsidesoftware/cspell-dicts/issues/556) ([#2634](https://github.com/streetsidesoftware/cspell-dicts/issues/2634)) ([3187e70](https://github.com/streetsidesoftware/cspell-dicts/commit/3187e7009bb9b7f31cf6aac64b346139414b392e))
+
+## [5.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.6...@cspell/dict-cpp@5.0.7) (2023-10-07)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2611](https://github.com/streetsidesoftware/cspell-dicts/issues/2611)) ([ea75827](https://github.com/streetsidesoftware/cspell-dicts/commit/ea75827937176ffd3b76aba6a013e4ac452452af))
+* Workflow Bot -- Build Dictionaries ([#2615](https://github.com/streetsidesoftware/cspell-dicts/issues/2615)) ([623513e](https://github.com/streetsidesoftware/cspell-dicts/commit/623513e50b4eb5accac6ad5c26747204cb9a5256))
+* Workflow Bot -- Build Dictionaries ([#2616](https://github.com/streetsidesoftware/cspell-dicts/issues/2616)) ([5a514d9](https://github.com/streetsidesoftware/cspell-dicts/commit/5a514d9ca1ffaa5e4fea089c571a2e61e46021db))
+
+## [5.0.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.5...@cspell/dict-cpp@5.0.6) (2023-10-05)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2603](https://github.com/streetsidesoftware/cspell-dicts/issues/2603)) ([72a9dd6](https://github.com/streetsidesoftware/cspell-dicts/commit/72a9dd6798dc6d5f45c0d28f73b9c7b12967acc1))
+
+## [5.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.4...@cspell/dict-cpp@5.0.5) (2023-09-09)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2483](https://github.com/streetsidesoftware/cspell-dicts/issues/2483)) ([83a2db6](https://github.com/streetsidesoftware/cspell-dicts/commit/83a2db659dd2adbb61c10d4552663f68a21fb9f4))
+
+## [5.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.3...@cspell/dict-cpp@5.0.4) (2023-07-19)
+
+
+### Updates and Bug Fixes
+
+* Update dictionary build script and re-build ([#2334](https://github.com/streetsidesoftware/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/streetsidesoftware/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+
 ## [5.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.2...@cspell/dict-cpp@5.0.3) (2023-04-28)
 
 

@@ -28,27 +28,25 @@ jobs:
       REF_BRANCH: ${{ inputs.ref || github.event.inputs.ref }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: ${{ env.REF_BRANCH }}
-      - uses: actions/setup-node@v3
-        with:
-          cache: yarn
-      - name: Install
-        run: |
-          yarn
+
+      - name: Setup
+        uses: ./.github/actions/setup
+
       - name: Sort Source
         run: |
-          yarn run lint:fix:sort-source-files
+          pnpm run lint:fix:sort-source-files
       - name: Re-Install to build
         run: |
-          yarn
+          pnpm i
       - name: Build
         run: |
-          yarn run conditional-build
+          pnpm run conditional-build
       - name: Build Readme
         run: |
-          yarn run build:readme
+          pnpm run build:readme
 
       - name: PR
         uses: ./.github/actions/pr

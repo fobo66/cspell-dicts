@@ -15,6 +15,7 @@ ariakit
 Artifactory
 asdf
 Atlaskit
+automake
 Avro
 AWS
 Bacula
@@ -36,6 +37,8 @@ Cloudera
 Cloudkick
 CloudStack
 cmake
+codecov
+codeql
 conda
 CouchDB
 Crashlytics
@@ -43,6 +46,8 @@ cron
 CSharpier
 cspell
 cspellcache
+ctag
+ctags
 cygwin
 Databricks
 DigitalOcean
@@ -67,6 +72,7 @@ git
 GitHub
 Gitkraken
 GitLab
+Gitleaks
 Gitpod
 GKE
 GMail
@@ -87,6 +93,7 @@ HipChat
 homebrew
 Horovod
 hostnamectl
+httpie
 Hunspell
 ifcfg
 ifconfig
@@ -112,6 +119,7 @@ Lastfm
 launchctl
 launchd
 LaunchDarkly
+lightdm
 Linode
 Linux
 linuxserver
@@ -125,6 +133,8 @@ lsmod
 lsof
 lspci
 lsscsi
+lxdm
+lxqt
 Mailtrap
 Mandriva
 Mangeia
@@ -132,10 +142,13 @@ Manjaro
 MegaLinter
 Microsoft
 minikube
+mitmproxy
 mkdir
 mongod
 MongoDB
 monit
+msedge
+MSSQL
 MySQL
 Nagios
 nano
@@ -149,6 +162,7 @@ Octicons
 octokit
 Ohai
 OmniOS
+OpenAPI
 OpenBSD
 openindiana
 OpenIndiana
@@ -166,6 +180,8 @@ OpenVPN
 OpenVZ
 Ouroboros
 OXSecurity
+pbcopy
+pbpaste
 perl
 php
 Pidora
@@ -177,11 +193,17 @@ pnpm
 Podman
 Portainer
 PostgresSQL
+prettier
+prettierd
+proselint
+proselintrc
 pspings
 PyCharm
 Redis
 RHEL
+ripgrep
 scapy
+sddm
 Secretlint
 secretlintignore
 Sharpier
@@ -190,6 +212,7 @@ snmpd
 snmptrapd
 sockperf
 Sourcetree
+speedtest
 Splunk
 SQLite
 sshd
@@ -223,8 +246,12 @@ vscode
 vscodium
 wget
 whoami
+wkhtmltopdf
 wrlinux
 Xeon
+xfce
+xfwm
+xinit
 yamllint
 yarn
 Zendesk

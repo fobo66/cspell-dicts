@@ -1,6 +1,6 @@
 {
   "name": "@cspell/dict-city-names-finland",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "City area names in Finland for cspell.",
   "publishConfig": {
     "access": "public"
@@ -11,10 +11,10 @@
     "./cspell-ext.json": "./cspell-ext.json"
   },
   "scripts": {
-    "build": "cspell-tools compile \"city-names-finland.txt\" -o .",
-    "test": "head -n 100 \"city-names-finland.txt\" | cspell -v -c ./cspell-ext.json --local=* --languageId=* stdin",
+    "build": "cspell-tools-cli compile --keep-raw-case --use-legacy-splitter src/city-names-finland.txt --no-compress -o ./dict",
+    "test": "shx head -n 100 src/city-names-finland.txt | cspell -v -c ./cspell-ext.json --local=* --languageId=* stdin",
     "prepublishOnly": "echo pre-publish",
-    "prepare": "yarn run build"
+    "prepare:dictionary": "pnpm run build"
   },
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/streetsidesoftware/cspell-dicts/blob/main/dictionaries/city-names-finland#readme",
   "files": [
-    "city-names-finland.txt.gz",
+    "dict/city-names-finland.txt",
     "cspell-ext.json"
   ]
 }

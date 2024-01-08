@@ -1,6 +1,6 @@
 {
   "name": "@cspell/dict-da-dk",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Danish dictionary for CSpell.",
   "publishConfig": {
     "access": "public"
@@ -11,16 +11,14 @@
     "./cspell-ext.json": "./cspell-ext.json"
   },
   "scripts": {
-    "build": "cross-env NODE_OPTIONS=--max_old_space_size=12288 cspell-tools-cli build && yarn run gen-checksum",
-    "sync": "yarn cpy \"../../node_modules/dictionary-da/**\" src/hunspell",
-    "checksum": "shasum -c checksum.txt",
-    "conditional-build": "yarn run --silent checksum || yarn run build",
-    "gen-checksum": "cat source-files.txt source-dependencies.txt | xargs shasum > checksum.txt",
+    "build": "cspell-tools-cli build",
+    "sync": "pnpm cpy \"node_modules/dictionary-da/**\" src/hunspell",
+    "conditional-build": "pnpm sync && pnpm build --conditional",
     "test-de": "hunspell-reader words -n 1000 \"src/hunspell/index.dic\" | cspell -v -c ./cspell-ext.json --local=da-DK --languageId=* stdin",
     "test-samples": "cspell -c ./cspell-ext.json --local=da-dk,en \"samples/**\"",
-    "test": "yarn run test-de && yarn run test-samples",
-    "prepare": "echo ok",
-    "prepublishOnly": "yarn run conditional-build"
+    "test": "pnpm run test-de && pnpm run test-samples",
+    "prepare:dictionary": "echo ok",
+    "prepublishOnly": "pnpm run conditional-build"
   },
   "repository": {
     "type": "git",
@@ -45,6 +43,6 @@
     "src/hunspell/license"
   ],
   "devDependencies": {
-    "dictionary-da": "^5.1.0"
+    "dictionary-da": "^6.0.0"
   }
 }

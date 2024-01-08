@@ -1,6 +1,6 @@
 {
   "name": "@cspell/dict-medicalterms",
-  "version": "3.0.0",
+  "version": "4.1.0",
   "description": "Medical Terms dictionary for cspell.",
   "publishConfig": {
     "access": "public"
@@ -11,12 +11,11 @@
     "./cspell-ext.json": "./cspell-ext.json"
   },
   "scripts": {
-    "build": "cspell-tools compile \"./node_modules/wordlist-medicalterms-en/wordlist.txt\" -o . --merge medicalterms-en.txt",
-    "test-wordlist": "head -n 100 \"./node_modules/wordlist-medicalterms-en/wordlist.txt\" | cspell -v -c ./cspell-ext.json --local=* --languageId=* stdin",
-    "test-samples": "cspell -v samples/**",
-    "test": "yarn run test-wordlist && yarn run test-samples",
+    "build": "cspell-tools-cli build",
+    "build:conditional": "pnpm build --conditional",
+    "test": "cspell samples --no-progress",
     "prepublishOnly": "echo pre-publish",
-    "prepare": "yarn run build"
+    "prepare:dictionary": "pnpm run build"
   },
   "repository": {
     "type": "git",
@@ -40,6 +39,6 @@
     "cspell-ext.json"
   ],
   "devDependencies": {
-    "wordlist-medicalterms-en": "Glutanimate/wordlist-medicalterms-en#d87b48e"
+    "wordlist-medicalterms-en": "github:Glutanimate/wordlist-medicalterms-en#d87b48e"
   }
 }

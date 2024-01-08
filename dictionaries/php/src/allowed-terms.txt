@@ -187,6 +187,8 @@ kadm
 keygen
 keypress
 langinfo
+Laragon
+Laravel
 len
 lf
 linefeed

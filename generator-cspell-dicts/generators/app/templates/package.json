@@ -15,7 +15,7 @@
     "build": "cross-env NODE_OPTIONS=--max_old_space_size=8192 cspell-tools-cli build",
     "test": "<%= srcFileReader %> \"<%= srcFile %>\" | cspell -v -c ./cspell-ext.json \"--local=<%= local %>\" \"--languageId=<%= languageId %>\" stdin",
     "prepublishOnly": "<%= prepublishOnlyScript %>",
-    "prepare": "<%= prepareScript %>"
+    "prepare:dictionary": "<%= prepareScript %>"
   },
   "repository": {
     "type": "git",
@@ -29,7 +29,8 @@
     "dictionary",
     "spelling"
   ],
-  "author": "Jason Dent",
+  "author": "Street Side Software",
+  "contributors": [],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/streetsidesoftware/cspell-dicts/issues"

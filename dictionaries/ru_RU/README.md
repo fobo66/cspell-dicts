@@ -49,7 +49,7 @@ GPL-3.0-or-later
 
 ## Adding Missing Words
 
-Please add words to [additional_words.txt](./src/additional_words.txt)
+Please add words to [additional_words.txt](https://github.com/streetsidesoftware/cspell-dicts/blob/main/dictionaries/src/additional_words.txt)
 
 ## Building
 
@@ -57,5 +57,5 @@ Building is only necessary if you want to modify the contents of the dictionary.
 Note: Building the Russian dictionary takes at least 30 minutes.
 
 ```sh
-yarn run build
+pnpm run build
 ```

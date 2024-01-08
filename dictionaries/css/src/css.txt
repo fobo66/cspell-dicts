@@ -105,6 +105,7 @@ block
 blocking
 blockquote
 blue
+bluehaze
 blueviolet
 blur
 body
@@ -136,6 +137,7 @@ button-arrow-next
 button-arrow-previous
 button-arrow-up
 button-bevel
+c2sc
 cadetblue
 calt
 cambodian
@@ -145,6 +147,7 @@ caps
 caption
 captures
 caret
+case
 cell
 cells
 center
@@ -281,6 +284,7 @@ display
 distribute
 div
 dl
+dlig
 dodge
 dodgerblue
 dominant
@@ -303,6 +307,7 @@ dvmin
 each
 earthly
 ease
+easings
 east
 economy
 edge
@@ -351,6 +356,7 @@ fill
 filled
 filter
 filters
+fina
 fine
 firebrick
 first
@@ -374,6 +380,7 @@ format
 forward
 forwards
 fr
+frac
 fragment
 fragments
 from
@@ -391,6 +398,7 @@ georgian
 ghostwhite
 glass
 glyph
+glyphicon
 gold
 goldenrod
 gray
@@ -424,6 +432,8 @@ helvetica
 hgroup
 hidden
 hiragana
+hist
+hlig
 honeydew
 horizontal
 hostfunction
@@ -462,6 +472,7 @@ indigo
 infinite
 informal
 inherit
+init
 initial
 ink
 inline
@@ -479,6 +490,7 @@ into
 invalid
 invert
 iroha
+isol
 isolate
 isolation
 italic
@@ -491,6 +503,7 @@ justify
 katakana
 kbd
 keep
+kern
 kerning
 key
 keyEquivalent
@@ -525,6 +538,7 @@ length
 letter
 level
 li
+liga
 ligatures
 light
 lightblue
@@ -557,6 +571,7 @@ list
 listbox
 lnum
 local
+locl
 logic
 logical
 loop
@@ -593,6 +608,7 @@ max
 maximize
 maximized
 maximum
+medi
 media
 medium
 mediumaquamarine
@@ -633,6 +649,7 @@ mistyrose
 miterlimit
 mix
 mixed
+mkmk
 mm
 moccasin
 mode
@@ -681,6 +698,7 @@ oblique
 odd
 of
 offset
+offwhite
 oklab
 oklch
 ol
@@ -689,6 +707,7 @@ olive
 olivedrab
 on
 only
+onum
 opacity
 open
 opentype
@@ -835,6 +854,7 @@ richness
 ridge
 right
 rl
+rlig
 role
 roman
 root
@@ -927,6 +947,7 @@ slategrey
 slice
 small
 smaller
+smcp
 smooth
 snap
 snow
@@ -951,6 +972,7 @@ spread
 springgreen
 square
 src
+srgb
 stacking
 standard
 start
@@ -975,6 +997,7 @@ styleset
 sub
 subgrid
 suboptimum
+subs
 subtract
 suffix
 summary
@@ -982,11 +1005,13 @@ sup
 super
 support
 suppress
+sups
 susy
 svg
 svmax
 svmin
 sw
+swsh
 symbol
 symbolic
 symbols
@@ -1059,6 +1084,7 @@ trim
 true
 truetype
 tty
+tundora
 turn
 turquoise
 tv
@@ -1101,6 +1127,7 @@ vh
 video
 view
 viewport
+viewports
 violet
 visibility
 visible
@@ -1122,6 +1149,7 @@ wheat
 white
 whitesmoke
 whitespace
+whitespaces
 widows
 width
 wildcard

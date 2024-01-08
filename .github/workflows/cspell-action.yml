@@ -12,9 +12,9 @@ jobs:
   cspell:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          cache: yarn
-      - run: yarn
-      - uses: streetsidesoftware/cspell-action@v2.26.2
+      - uses: actions/checkout@v4
+
+      - name: Setup
+        uses: ./.github/actions/setup
+
+      - uses: streetsidesoftware/cspell-action@v5.0.0

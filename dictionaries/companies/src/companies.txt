@@ -302,7 +302,6 @@ CBRE Group
 CBRE Group, Inc.
 CBS Corporation
 CC Media Holdings, Inc.
-cdnjs
 CDNS
 CDW Corporation
 Celanese
@@ -392,6 +391,7 @@ Citylink
 Cliffs Natural Resources Inc.
 clockify
 Cloudflare
+Cloudinary
 CMCSA
 CME Group Inc.
 CMS Energy
@@ -450,6 +450,7 @@ CRH
 Crowdin
 Crown Castle International Corp.
 Crown Holdings, Inc.
+CSAIL
 CSCO
 CST Brands, Inc.
 CSX Corp.
@@ -491,6 +492,7 @@ Deere & Company
 Delft University of Technology
 Delhaize Group
 Dell
+Deloitte
 Delta Air Lines
 Delta Air Lines Inc.
 Delta Air Lines, Inc.
@@ -504,6 +506,7 @@ Devon Energy
 Devon Energy Corporation
 DexCom
 Dexia Group
+Dezzai
 Diamondback Energy
 Dick's Sporting Goods, Inc.
 Digia Plc
@@ -564,6 +567,7 @@ Edeka Zentrale
 Edison Int'l
 Edison International
 Edwards Lifesciences
+Egnyte
 Eindhoven University of Technology
 Electricite de France
 Electronic Arts
@@ -828,6 +832,7 @@ Hyundai Mobis
 Hyundai Motor
 Iberdrola
 Icahn Enterprises L.P.
+ICCC
 Idean
 Idemitsu Kosan
 IDEX Corporation
@@ -893,6 +898,7 @@ IPGP
 IQVIA
 IQVIA Holdings Inc.
 Iron Mountain Incorporated
+ISEA
 ISRG
 IssueHunt
 Itausa-Investimentos
@@ -1053,6 +1059,7 @@ Lowe's Cos.
 LRCX
 Lufthansa Group
 Lukoil
+Lumitics
 Lund University
 Lyft
 LyondellBasell
@@ -1128,6 +1135,7 @@ Micron Technology, Inc.
 Microsoft
 Microsoft Corp.
 Mid-America Apartments
+Midjourney
 Migros Group
 Minecraft
 Mirantis
@@ -1175,6 +1183,7 @@ Munich Re Group
 Murphy Oil
 Murphy Oil Corporation
 Murphy USA Inc.
+Musixmatch
 Mutual of Omaha Insurance Company
 MXIM
 Mylan Inc.
@@ -1295,6 +1304,9 @@ OMV Group
 ONEOK
 ONEOK, Inc.
 Onex
+OpenAI
+Openbase
+OpenDNS
 Opscode
 Oracle
 Oracle Corp.
@@ -1302,6 +1314,7 @@ Oracle Corporation
 ORCL
 ORLY
 Osaka University
+OSDI
 Oshkosh Corporation
 Otechie
 OTIS
@@ -1465,6 +1478,7 @@ Responsys
 Reynolds American Inc.
 Rice University
 Ricoh
+RIMAS
 Rio Tinto Group
 Rite Aid
 Rite Aid Corporation
@@ -1538,6 +1552,7 @@ Shougang Group
 Showa Shell Sekiyu
 SHV Holdings
 Siemens
+SIGKDD
 Silicom
 Simon Property Group Inc
 Simon Property Group, Inc.
@@ -1908,7 +1923,6 @@ University of Wisconsin-Madison
 University of Wollongong
 University of Zurich
 University Putra Malaysia
-unpkg
 Unsplash
 UNSW
 Unum Group
@@ -1916,6 +1930,7 @@ Upcloud Ltd
 Uppsala University
 URS Corporation
 US Foods, Inc.
+USENIX
 Utrecht University
 V.F. Corporation
 Vale
@@ -2020,6 +2035,7 @@ Xcel Energy Inc.
 Xerox
 Xerox Corporation
 Xi'an Jiaotong University
+Xiaomi
 Xilinx
 XING
 Xinxing Cathay International Group

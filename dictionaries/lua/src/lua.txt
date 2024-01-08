@@ -229,6 +229,7 @@ lua_Writer
 lua_xmove
 lua_yield
 lua_yieldk
+luadoc
 luaL_addchar
 luaL_addlstring
 luaL_addsize

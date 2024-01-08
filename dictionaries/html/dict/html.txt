@@ -1533,6 +1533,7 @@ injections
 inline
 inodot
 input
+inputfield
 inputmode
 ins
 int
@@ -3149,6 +3150,7 @@ vsupne
 vzigzag
 wbr
 wcirc
+webp
 wedbar
 wedge
 wedgeq

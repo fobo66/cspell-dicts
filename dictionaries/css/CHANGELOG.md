@@ -22,6 +22,56 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.12](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.11...@cspell/dict-css@4.0.12) (2023-10-05)
+
+
+### Updates and Bug Fixes
+
+* add glyphicon to css ([#2600](https://github.com/streetsidesoftware/cspell-dicts/issues/2600)) ([eefdb08](https://github.com/streetsidesoftware/cspell-dicts/commit/eefdb08ad23d777a1918a67d522c5d7ad4ef588b))
+* Workflow Bot -- Build Dictionaries ([#2603](https://github.com/streetsidesoftware/cspell-dicts/issues/2603)) ([72a9dd6](https://github.com/streetsidesoftware/cspell-dicts/commit/72a9dd6798dc6d5f45c0d28f73b9c7b12967acc1))
+
+## [4.0.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.10...@cspell/dict-css@4.0.11) (2023-09-30)
+
+
+### Updates and Bug Fixes
+
+* add font feature words to css ([#2586](https://github.com/streetsidesoftware/cspell-dicts/issues/2586)) ([5c1df6d](https://github.com/streetsidesoftware/cspell-dicts/commit/5c1df6d3c0b88a0e1080dd6224a40b0cfa76baab))
+* Workflow Bot -- Build Dictionaries ([#2585](https://github.com/streetsidesoftware/cspell-dicts/issues/2585)) ([6eb7658](https://github.com/streetsidesoftware/cspell-dicts/commit/6eb765831220892eda6a751c86d1465963a1d953))
+
+## [4.0.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.9...@cspell/dict-css@4.0.10) (2023-09-27)
+
+
+### Updates and Bug Fixes
+
+* add bluehaze and tundora to css dictionary ([#2559](https://github.com/streetsidesoftware/cspell-dicts/issues/2559)) ([a8131fa](https://github.com/streetsidesoftware/cspell-dicts/commit/a8131faac7061c343b7dd4908d8dd571b9990794))
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/streetsidesoftware/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/streetsidesoftware/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+
+## [4.0.9](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.8...@cspell/dict-css@4.0.9) (2023-09-22)
+
+
+### Updates and Bug Fixes
+
+* add whitespaces (plural) to dictionaries ([#2552](https://github.com/streetsidesoftware/cspell-dicts/issues/2552)) ([09e990a](https://github.com/streetsidesoftware/cspell-dicts/commit/09e990a724a7bad7db72cd43e9e374290b59b886))
+* Workflow Bot -- Build Dictionaries ([#2553](https://github.com/streetsidesoftware/cspell-dicts/issues/2553)) ([46ce681](https://github.com/streetsidesoftware/cspell-dicts/commit/46ce6812d8770d6017b72c48faf4f91ca2092896))
+
+## [4.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.7...@cspell/dict-css@4.0.8) (2023-09-21)
+
+
+### Updates and Bug Fixes
+
+* add easings to css dictionary ([#2521](https://github.com/streetsidesoftware/cspell-dicts/issues/2521)) ([554c5aa](https://github.com/streetsidesoftware/cspell-dicts/commit/554c5aacab37d51dab05e974f884b977cd67cbb8))
+* add viewports (plural) to css dictionary ([#2524](https://github.com/streetsidesoftware/cspell-dicts/issues/2524)) ([e765a89](https://github.com/streetsidesoftware/cspell-dicts/commit/e765a89a20645497d0ace65e6a1bb97c044da2a7))
+* Workflow Bot -- Build Dictionaries ([#2511](https://github.com/streetsidesoftware/cspell-dicts/issues/2511)) ([af0713c](https://github.com/streetsidesoftware/cspell-dicts/commit/af0713caa9f147e182c9025a950c1a4906d10ac6))
+* Workflow Bot -- Build Dictionaries ([#2527](https://github.com/streetsidesoftware/cspell-dicts/issues/2527)) ([051753e](https://github.com/streetsidesoftware/cspell-dicts/commit/051753eeeba9c0e8771d53a2530f417941a5c333))
+
+## [4.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.6...@cspell/dict-css@4.0.7) (2023-08-22)
+
+
+### Updates and Bug Fixes
+
+* Add `srgb` to css ([#2424](https://github.com/streetsidesoftware/cspell-dicts/issues/2424)) ([f116770](https://github.com/streetsidesoftware/cspell-dicts/commit/f116770909e65b7091f2335fe2d1d25ab194138e))
+* Workflow Bot -- Build Dictionaries ([#2425](https://github.com/streetsidesoftware/cspell-dicts/issues/2425)) ([93acacb](https://github.com/streetsidesoftware/cspell-dicts/commit/93acacb11628732f6a90260c6820cb9a54853153))
+
 ## [4.0.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.5...@cspell/dict-css@4.0.6) (2023-04-26)
 
 

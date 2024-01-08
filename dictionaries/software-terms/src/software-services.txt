@@ -1,4 +1,13 @@
+# Add Web Services to this list
 Appointedd
-Calendly
+bunnycdn
+calendly
+caniuse
+cdnjs
 imessage
-Todoist
+jsdelivr
+musixmatch
+netlify
+probot
+todoist
+unpkg
