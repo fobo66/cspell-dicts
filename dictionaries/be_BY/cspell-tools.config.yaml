@@ -3,10 +3,10 @@
 targets:
   - name: 'be-by'
     sources:
-      - filename: 'src/be.dic'
+      - filename: 'src/be_BY.txt'
         maxDepth: 1 # This is set to 1 to prevent initial builds from taking too long.
-    format: 'plaintext'
+    format: 'trie3'
     targetDirectory: './dict'
-    generateNonStrict: 'false'
+    generateNonStrict: 'true'
     compress: false
 checksumFile: true

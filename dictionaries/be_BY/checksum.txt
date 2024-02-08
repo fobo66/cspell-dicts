@@ -1,0 +1,2 @@
+a418f357ea0cb7ebbeba53c3e2ceffffd34a7c68  dict/be-by.trie
+dec9983f7f538341b359500f6fcdc00b8f67bacb  src/be_BY.txt

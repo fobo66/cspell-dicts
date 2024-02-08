@@ -9,7 +9,7 @@
     "dictionaryDefinitions": [
         {
             "name": "be-by",
-            "path": "./dict/be-by.txt",
+            "path": "./dict/be-by.trie",
             "description": "Belarusian dictionary for cspell."
         }
     ],

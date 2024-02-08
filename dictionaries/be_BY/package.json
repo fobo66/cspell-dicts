@@ -13,9 +13,10 @@
   },
   "scripts": {
     "build": "cross-env NODE_OPTIONS=--max_old_space_size=8192 cspell-tools-cli build",
-    "test": "hunspell-reader words -n 1000 -m 0 \"src/be.dic\" | cspell -v -c ./cspell-ext.json \"--locale=be\" \"--languageId=*\" stdin",
+    "sync": "pnpm cpy \"node_modules/dictionary-be/**\" src/hunspell",
+    "test": "head -n 1000 \"src/be_BY.txt\" | cspell -v -c ./cspell-ext.json \"--locale=be\" \"--languageId=*\" stdin",
     "prepublishOnly": "echo OK",
-    "prepare:dictionary": "echo OK"
+    "prepare:dictionary": "pnpm run build"
   },
   "repository": {
     "type": "git",
@@ -36,10 +37,12 @@
     "url": "https://github.com/streetsidesoftware/cspell-dicts/issues"
   },
   "homepage": "https://github.com/streetsidesoftware/cspell-dicts/blob/main/dictionaries/be_BY#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "dictionary-be": "^1.0.0"
+  },
   "dependencies": {},
   "files": [
-    "dict/be-by.txt",
+    "dict/be-by.trie",
     "cspell-ext.json",
     "*.js",
     "*.d.ts"

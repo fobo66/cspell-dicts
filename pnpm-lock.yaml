@@ -91,7 +91,11 @@ importers:
 
   dictionaries/bash: {}
 
-  dictionaries/be_BY: {}
+  dictionaries/be_BY:
+    devDependencies:
+      dictionary-be:
+        specifier: ^1.0.0
+        version: 1.0.0
 
   dictionaries/bg_BG: {}
 
@@ -2802,6 +2806,10 @@ packages:
     resolution: {integrity: sha512-RWmIqhcFf1lRYBvNmr7qTNuyCt/7/ns2jbpp1+PalgE/rDQcBT0fioSMUpJ93irlUhC5hrg4cYqe6U+0ImW0rA==}
     dependencies:
       dequal: 2.0.3
+    dev: true
+
+  /dictionary-be@1.0.0:
+    resolution: {integrity: sha512-LePzzyr9Y3Jc3cun88/nKmIkGH+IyFwnqGby9MffuvgoFjsakf9shM5nF8rMaQVqTPF63RGkJbnOtymwO40afA==}
     dev: true
 
   /dictionary-da@6.0.0:
