@@ -1,11 +1,6 @@
 {
     "version": "0.2",
-    "files": [
-        "**/*.{md,txt}"
-    ],
-    "dictionaries": [
-        "be-by"
-    ],
+    "language": "en,be",
     "import": [
         "./cspell-ext.json"
     ]

@@ -14,7 +14,7 @@
   "scripts": {
     "build": "cross-env NODE_OPTIONS=--max_old_space_size=8192 cspell-tools-cli build",
     "sync": "pnpm cpy \"node_modules/dictionary-be/**\" src/hunspell",
-    "test": "head -n 1000 \"src/be_BY.txt\" | cspell -v -c ./cspell-ext.json \"--locale=be\" \"--languageId=*\" stdin",
+    "test": "hunspell-reader words -n 1000 \"src/hunspell/index.dic\" | cspell -v -c ./cspell-ext.json --locale=be --languageId=* stdin",
     "prepublishOnly": "echo OK",
     "prepare:dictionary": "pnpm run build"
   },

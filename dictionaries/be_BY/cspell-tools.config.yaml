@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-tools/cspell-tools.config.schema.json
 
 targets:
-  - name: 'be-by'
+  - name: 'be_by'
     sources:
-      - filename: 'src/be_BY.txt'
-        maxDepth: 1 # This is set to 1 to prevent initial builds from taking too long.
+      - src/additional_words.txt
+      - src/hunspell/index.dic
     format: 'trie3'
     targetDirectory: './dict'
-    generateNonStrict: 'true'
-    compress: false
+    generateNonStrict: true
+    compress: true
 checksumFile: true
