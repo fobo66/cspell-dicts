@@ -91,6 +91,8 @@ importers:
 
   dictionaries/bash: {}
 
+  dictionaries/be_BY: {}
+
   dictionaries/bg_BG: {}
 
   dictionaries/ca: {}
