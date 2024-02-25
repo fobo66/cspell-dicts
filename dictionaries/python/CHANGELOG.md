@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.12](https://github.com/fobo66/cspell-dicts/compare/@cspell/dict-python-v4.1.11...@cspell/dict-python@4.1.12) (2024-02-25)
+
+
+### Updates and Bug Fixes
+
+* [python] Add "djlint" term ([#2835](https://github.com/fobo66/cspell-dicts/issues/2835)) ([92a2686](https://github.com/fobo66/cspell-dicts/commit/92a2686401d73d77d81a2824e88ac8ac9ce57488))
+* Add "hhatto" to Python dictionary ([#2475](https://github.com/fobo66/cspell-dicts/issues/2475)) ([832d50a](https://github.com/fobo66/cspell-dicts/commit/832d50a68fd3d5f79b36b5b0ec8962f1c90c865f))
+* Add "PYTHONHOME" to python dict ([#2697](https://github.com/fobo66/cspell-dicts/issues/2697)) ([a099929](https://github.com/fobo66/cspell-dicts/commit/a0999297967fd21639c9b167c5edac5d3ea60f64))
+* Add "venvs" to the python dict ([#2695](https://github.com/fobo66/cspell-dicts/issues/2695)) ([7b9d821](https://github.com/fobo66/cspell-dicts/commit/7b9d8218f6e7c5bbfc5a6fc97cd9727e2a0489e1))
+* add Bokeh Chainer etc. to common_packages ([#2367](https://github.com/fobo66/cspell-dicts/issues/2367)) ([b6ecf9a](https://github.com/fobo66/cspell-dicts/commit/b6ecf9aa107bba299196b8105ccef38144c719a4))
+* add pathlib oneflow to common_packages ([#2358](https://github.com/fobo66/cspell-dicts/issues/2358)) ([be72d35](https://github.com/fobo66/cspell-dicts/commit/be72d3506c4525f6f428152605b3c7d3c92d928b))
+* add pybindll docutils to common_packages ([#2402](https://github.com/fobo66/cspell-dicts/issues/2402)) ([d43abfc](https://github.com/fobo66/cspell-dicts/commit/d43abfcbf6127a0fa8f5cfca27836854b4dccb7f))
+* add pyenv to python ([#2569](https://github.com/fobo66/cspell-dicts/issues/2569)) ([288176b](https://github.com/fobo66/cspell-dicts/commit/288176b43e92eb46d7decaf42a4078d5caf949dc))
+* Make sure Python uses the latest data sci dict ([#2419](https://github.com/fobo66/cspell-dicts/issues/2419)) ([58cff32](https://github.com/fobo66/cspell-dicts/commit/58cff32aa67960723ebfcd883a73f4bd425ecdfc))
+* Workflow Bot -- Build Dictionaries ([#2361](https://github.com/fobo66/cspell-dicts/issues/2361)) ([d68a696](https://github.com/fobo66/cspell-dicts/commit/d68a69611139e52c88ac35cf121f437ff14164ca))
+* Workflow Bot -- Build Dictionaries ([#2368](https://github.com/fobo66/cspell-dicts/issues/2368)) ([279027a](https://github.com/fobo66/cspell-dicts/commit/279027aafb5640e4294e7ff5fb70335ac3c9ecf1))
+* Workflow Bot -- Build Dictionaries ([#2404](https://github.com/fobo66/cspell-dicts/issues/2404)) ([03465cc](https://github.com/fobo66/cspell-dicts/commit/03465cc65b5edb1cd2f8e96a8e377c724d05cab6))
+
 ## [4.1.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.1.10...@cspell/dict-python@4.1.11) (2023-12-25)
 
 
