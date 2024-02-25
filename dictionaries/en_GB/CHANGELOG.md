@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.35](https://github.com/fobo66/cspell-dicts/compare/@cspell/dict-en-gb-v4.1.34...@cspell/dict-en-gb@4.1.35) (2024-02-25)
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/fobo66/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/fobo66/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Workflow Bot -- Build Dictionaries ([#2405](https://github.com/fobo66/cspell-dicts/issues/2405)) ([9f30dca](https://github.com/fobo66/cspell-dicts/commit/9f30dca31e17b9fc68ff5815c100b3c062ccdc0a))
+* Workflow Bot -- Build Dictionaries ([#2410](https://github.com/fobo66/cspell-dicts/issues/2410)) ([f5e7365](https://github.com/fobo66/cspell-dicts/commit/f5e73652dbfa00d8c160588516520627fa80eb2a))
+* Workflow Bot -- Build Dictionaries ([#2433](https://github.com/fobo66/cspell-dicts/issues/2433)) ([1ef66fd](https://github.com/fobo66/cspell-dicts/commit/1ef66fde5d66a73aa76939d8642e9754e2995d19))
+* Workflow Bot -- Build Dictionaries ([#2457](https://github.com/fobo66/cspell-dicts/issues/2457)) ([e6290ec](https://github.com/fobo66/cspell-dicts/commit/e6290ecc15796f1dcdc0711da61de572c775d1ac))
+* Workflow Bot -- Build Dictionaries ([#2607](https://github.com/fobo66/cspell-dicts/issues/2607)) ([5207d82](https://github.com/fobo66/cspell-dicts/commit/5207d8222154457dc7fd24747db5de8175f87d84))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/fobo66/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/fobo66/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2662](https://github.com/fobo66/cspell-dicts/issues/2662)) ([2115190](https://github.com/fobo66/cspell-dicts/commit/2115190bae015aedb8832bc8384088ed36cfce9a))
+* Workflow Bot -- Build Dictionaries ([#2707](https://github.com/fobo66/cspell-dicts/issues/2707)) ([2f4fb72](https://github.com/fobo66/cspell-dicts/commit/2f4fb72ad0b370c78bdbc19f38ee6a452e767010))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/fobo66/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/fobo66/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+* Workflow Bot -- Build Dictionaries ([#2772](https://github.com/fobo66/cspell-dicts/issues/2772)) ([ffdf583](https://github.com/fobo66/cspell-dicts/commit/ffdf5832af5392785809f538bb11ae2d58d49ac0))
+* Workflow Bot -- Build Dictionaries ([#2787](https://github.com/fobo66/cspell-dicts/issues/2787)) ([026c607](https://github.com/fobo66/cspell-dicts/commit/026c60799049b2a886ac18e13e1e67cffbffbbd8))
+* Workflow Bot -- Build Dictionaries ([#2789](https://github.com/fobo66/cspell-dicts/issues/2789)) ([fc7d809](https://github.com/fobo66/cspell-dicts/commit/fc7d809791dc5f462b50922eb5ff951afca27fbb))
+* Workflow Bot -- Build Dictionaries ([#2864](https://github.com/fobo66/cspell-dicts/issues/2864)) ([5e5568d](https://github.com/fobo66/cspell-dicts/commit/5e5568d503419eab84d56770823d4a683b40d4c9))
+* Workflow Bot -- Build Dictionaries ([#2878](https://github.com/fobo66/cspell-dicts/issues/2878)) ([3547b0f](https://github.com/fobo66/cspell-dicts/commit/3547b0f3a9a56579b85655813c6304dddc4a1838))
+* Workflow Bot -- Build Dictionaries ([#2963](https://github.com/fobo66/cspell-dicts/issues/2963)) ([e5b5682](https://github.com/fobo66/cspell-dicts/commit/e5b5682e112fe8f888a399016932972fc7763aa2))
+* Workflow Bot -- Build Dictionaries ([#2982](https://github.com/fobo66/cspell-dicts/issues/2982)) ([28d4083](https://github.com/fobo66/cspell-dicts/commit/28d4083c238b330772186ff7bb25f8ace97e8e61))
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/fobo66/cspell-dicts/issues/2999)) ([be5878e](https://github.com/fobo66/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+
 ## [4.1.34](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb@4.1.33...@cspell/dict-en-gb@4.1.34) (2024-02-19)
 
 

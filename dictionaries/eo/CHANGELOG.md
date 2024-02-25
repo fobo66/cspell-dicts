@@ -22,6 +22,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.0.2](https://github.com/fobo66/cspell-dicts/compare/@cspell/dict-eo-v3.0.1...@cspell/dict-eo@3.0.2) (2024-02-25)
+
+
+### Updates and Bug Fixes
+
+* Fix EO build issue. ([#2355](https://github.com/fobo66/cspell-dicts/issues/2355)) ([394a185](https://github.com/fobo66/cspell-dicts/commit/394a185ba5a1f632064606b88c9541b946d00fbd))
+
 ## [3.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-eo@3.0.0...@cspell/dict-eo@3.0.1) (2023-07-20)
 
 

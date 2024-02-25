@@ -22,6 +22,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [6.0.0](https://github.com/fobo66/cspell-dicts/compare/@cspell/dict-cryptocurrencies-v5.0.0...@cspell/dict-cryptocurrencies@6.0.0) (2024-02-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* [cryptocurrencies] organize + modernize the crypto wordlists ([#2846](https://github.com/fobo66/cspell-dicts/issues/2846))
+* Upgrade Crypto Currencies Dictionary ([#2432](https://github.com/fobo66/cspell-dicts/issues/2432))
+
+### Features
+
+* [cryptocurrencies] organize + modernize the crypto wordlists ([#2846](https://github.com/fobo66/cspell-dicts/issues/2846)) ([1d18683](https://github.com/fobo66/cspell-dicts/commit/1d186837e92a1d3eee2265c6980bda0d8e490b59))
+* Upgrade Crypto Currencies Dictionary ([#2432](https://github.com/fobo66/cspell-dicts/issues/2432)) ([c54657b](https://github.com/fobo66/cspell-dicts/commit/c54657b4a1d3568aba907d51972424165c6f8b9a))
+
+
+### Updates and Bug Fixes
+
+* Adjust crypto license ([#2451](https://github.com/fobo66/cspell-dicts/issues/2451)) ([6b20822](https://github.com/fobo66/cspell-dicts/commit/6b208226113b668ce8333a304c70042355a52d6c))
+* Crypto make sure dict files are packaged. ([#2860](https://github.com/fobo66/cspell-dicts/issues/2860)) ([f7dbbdf](https://github.com/fobo66/cspell-dicts/commit/f7dbbdfd8c8d9f29b7b616b87461844d0a054c58))
+* Split out Crypto currencies and terms into their own files. ([#2437](https://github.com/fobo66/cspell-dicts/issues/2437)) ([f59ec98](https://github.com/fobo66/cspell-dicts/commit/f59ec98d355466ae587a50d9e2f209cfc5f7ff3f))
+* Workflow Bot -- Build Dictionaries ([#2438](https://github.com/fobo66/cspell-dicts/issues/2438)) ([4d9554f](https://github.com/fobo66/cspell-dicts/commit/4d9554f122407c2655d055a7b4ca4f8763e7cf32))
+
 ## [5.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cryptocurrencies@4.0.0...@cspell/dict-cryptocurrencies@5.0.0) (2023-12-29)
 
 

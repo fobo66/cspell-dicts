@@ -1,5 +1,19 @@
 # Change Log
 
+## [1.0.12](https://github.com/fobo66/cspell-dicts/compare/@cspell/dict-en-shared-v1.0.11...@cspell/dict-en-shared@1.0.12) (2024-02-25)
+
+
+### Updates and Bug Fixes
+
+* Add "archivable" to English dictionaries ([#2630](https://github.com/fobo66/cspell-dicts/issues/2630)) ([00a98a8](https://github.com/fobo66/cspell-dicts/commit/00a98a8dfd6dbbe0b8bc31f8d4aeca6186706229))
+* add "crafter" to en_shared ([#2431](https://github.com/fobo66/cspell-dicts/issues/2431)) ([c28e010](https://github.com/fobo66/cspell-dicts/commit/c28e010bc17b21cc687b80d6da978934281f91f4))
+* Add `mitigations` to English shared-additional-words.txt ([#2997](https://github.com/fobo66/cspell-dicts/issues/2997)) ([6441d52](https://github.com/fobo66/cspell-dicts/commit/6441d5276c86289b700b47e3e36d8dddd07caef2))
+* Add revalidates to shared-additional-words.txt ([#2961](https://github.com/fobo66/cspell-dicts/issues/2961)) ([41dab92](https://github.com/fobo66/cspell-dicts/commit/41dab928bd868c906df2e1300174c895e83fa0d0))
+* Add several English terms [fix [#2823](https://github.com/fobo66/cspell-dicts/issues/2823)] ([#2861](https://github.com/fobo66/cspell-dicts/issues/2861)) ([f0eacb9](https://github.com/fobo66/cspell-dicts/commit/f0eacb9792fa565e3b976ca3ab19584ad5970d7f))
+* Add terms from Kubernetes repo ([#2655](https://github.com/fobo66/cspell-dicts/issues/2655)) ([e4d8e94](https://github.com/fobo66/cspell-dicts/commit/e4d8e9434efb4610adebee086b9ba78379b05bc0))
+* add various terms ([#2734](https://github.com/fobo66/cspell-dicts/issues/2734)) ([1058a2c](https://github.com/fobo66/cspell-dicts/commit/1058a2c5a53bd9aa72958943062d4d454678c2f5))
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/fobo66/cspell-dicts/issues/2999)) ([be5878e](https://github.com/fobo66/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+
 ## [1.0.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.10...@cspell/dict-en-shared@1.0.11) (2024-02-19)
 
 

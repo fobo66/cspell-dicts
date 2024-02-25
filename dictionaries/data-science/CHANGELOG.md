@@ -1,5 +1,27 @@
 # Change Log
 
+## [3.0.0](https://github.com/fobo66/cspell-dicts/compare/@cspell/dict-data-science-v2.0.0...@cspell/dict-data-science@3.0.0) (2024-02-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* Split data-science terms into multiple dictionaries ([#2874](https://github.com/fobo66/cspell-dicts/issues/2874))
+
+### Features
+
+* Split data-science terms into multiple dictionaries ([#2874](https://github.com/fobo66/cspell-dicts/issues/2874)) ([93a8e09](https://github.com/fobo66/cspell-dicts/commit/93a8e09727819c4a6e0576fc6d0b65e307805da8))
+
+
+### Updates and Bug Fixes
+
+* add adaptative anonymization etc. to data-science-terms ([#2388](https://github.com/fobo66/cspell-dicts/issues/2388)) ([c57b348](https://github.com/fobo66/cspell-dicts/commit/c57b348fd9d19b09665eb3c5e167e59c0667b7e7))
+* add Ecolinguistics etc. to data-science-terms ([#2391](https://github.com/fobo66/cspell-dicts/issues/2391)) ([175f7b5](https://github.com/fobo66/cspell-dicts/commit/175f7b52e61dbbec115c2d6e63b3f435fdd5c8b4))
+* add interpretability Synergizing to data-science-terms ([#2406](https://github.com/fobo66/cspell-dicts/issues/2406)) ([6ba9614](https://github.com/fobo66/cspell-dicts/commit/6ba961475530b6660325c266f63214247f4ddae0))
+* add Neuro-Symbolic etc. to data-science-terms ([#2398](https://github.com/fobo66/cspell-dicts/issues/2398)) ([2424e74](https://github.com/fobo66/cspell-dicts/commit/2424e740e357eafc0d4d5842eacfdc08edca0f59))
+* Workflow Bot -- Build Dictionaries ([#2392](https://github.com/fobo66/cspell-dicts/issues/2392)) ([fb18852](https://github.com/fobo66/cspell-dicts/commit/fb18852f205b4a4d959afc2b0c28d3e14df869b9))
+* Workflow Bot -- Build Dictionaries ([#2396](https://github.com/fobo66/cspell-dicts/issues/2396)) ([7b592c3](https://github.com/fobo66/cspell-dicts/commit/7b592c3f6bef378b36e6daab8da67f109d955846))
+* Workflow Bot -- Build Dictionaries ([#2412](https://github.com/fobo66/cspell-dicts/issues/2412)) ([971e6d4](https://github.com/fobo66/cspell-dicts/commit/971e6d4cd9bd38f1809b76c50451ce24e66d0122))
+
 ## [2.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-data-science@1.0.11...@cspell/dict-data-science@2.0.0) (2024-01-02)
 
 

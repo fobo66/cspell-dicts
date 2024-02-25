@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.4](https://github.com/fobo66/cspell-dicts/compare/@cspell/dict-filetypes-v3.0.3...@cspell/dict-filetypes@3.0.4) (2024-02-25)
+
+
+### Updates and Bug Fixes
+
+* Add several filetypes ([#2690](https://github.com/fobo66/cspell-dicts/issues/2690)) ([8738efe](https://github.com/fobo66/cspell-dicts/commit/8738efe8dd82ce13ac43ce00fb64562d1cb44457))
+* add various terms ([#2734](https://github.com/fobo66/cspell-dicts/issues/2734)) ([1058a2c](https://github.com/fobo66/cspell-dicts/commit/1058a2c5a53bd9aa72958943062d4d454678c2f5))
+
 ## [3.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-filetypes@3.0.2...@cspell/dict-filetypes@3.0.3) (2023-11-19)
 
 
