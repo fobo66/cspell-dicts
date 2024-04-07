@@ -1,2 +1,6 @@
 a418f357ea0cb7ebbeba53c3e2ceffffd34a7c68  dict/be-by.trie
+d19db6e1ffb65aa4dccf7b92d2470b56ae3e90a2  dict/be_by.trie.gz
+79142c4d9bfa34b37640ac259564d207395b6c65  src/additional_words.txt
 dec9983f7f538341b359500f6fcdc00b8f67bacb  src/be_BY.txt
+fd4013931e0d1dcdb48bdf2af4ad6c445a8737ac  src/hunspell/index.aff
+e299db91fbc04c0c6769c11a8353239757d2e33d  src/hunspell/index.dic
