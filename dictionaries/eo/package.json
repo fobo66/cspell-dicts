@@ -13,7 +13,7 @@
   "scripts": {
     "build": "cspell-tools-cli build && pnpm gz",
     "build:conditional": "cspell-tools-cli build --conditional && pnpm gz",
-    "test:dic": "hunspell-reader words -n 1000 \"src/hunspell/eo.dic\" | cspell -c ./cspell-ext.json \"--locale=eo\" \"--languageId=*\" stdin",
+    "test:dic": "pipe-cmds \"hunspell-reader words -n 1000 \\\"src/hunspell/eo.dic\\\"\" \"cspell -c ./cspell-ext.json \\\"--locale=eo\\\" \\\"--languageId=*\\\" stdin\"",
     "test:samples": "cspell samples",
     "test": "pnpm test:dic && pnpm test:samples",
     "gz": "cspell-tools-cli gzip \"*.trie\"",
@@ -22,7 +22,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/streetsidesoftware/cspell-dicts.git"
+    "url": "https://github.com/streetsidesoftware/cspell-dict.git",
+    "directory": "dictionaries/eo"
   },
   "keywords": [
     "cspell",
@@ -31,7 +32,7 @@
     "dictionary",
     "spelling"
   ],
-  "author": "Street Side Software",
+  "author": "Street Side Software <support@streetsidesoftware.nl>",
   "license": "GPL-3.0+",
   "bugs": {
     "url": "https://github.com/streetsidesoftware/cspell-dicts/issues"

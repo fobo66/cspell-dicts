@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.38](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb@4.1.37...@cspell/dict-en-gb@4.1.38) (2024-04-03)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#3079](https://github.com/streetsidesoftware/cspell-dicts/issues/3079)) ([79395de](https://github.com/streetsidesoftware/cspell-dicts/commit/79395de628d1b034ded6fcd389f2491cab799e46))
+
+## [4.1.37](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb@4.1.36...@cspell/dict-en-gb@4.1.37) (2024-03-05)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#3032](https://github.com/streetsidesoftware/cspell-dicts/issues/3032)) ([a10fdab](https://github.com/streetsidesoftware/cspell-dicts/commit/a10fdabbc079626a509ce9c422a7258de33386f7))
+
+## [4.1.36](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb@4.1.35...@cspell/dict-en-gb@4.1.36) (2024-02-27)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#3017](https://github.com/streetsidesoftware/cspell-dicts/issues/3017)) ([8cc7fa1](https://github.com/streetsidesoftware/cspell-dicts/commit/8cc7fa1fcc3a59cff7ee82b7cd9452e5ae724729))
+
+## [4.1.35](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb@4.1.34...@cspell/dict-en-gb@4.1.35) (2024-02-26)
+
+
+### Updates and Bug Fixes
+
+* add deserialise to en_GB ([#3014](https://github.com/streetsidesoftware/cspell-dicts/issues/3014)) ([21398ad](https://github.com/streetsidesoftware/cspell-dicts/commit/21398ad3092f5d94fc0dd3d997e47b41bcfe2b0a))
+
 ## [4.1.34](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb@4.1.33...@cspell/dict-en-gb@4.1.34) (2024-02-19)
 
 

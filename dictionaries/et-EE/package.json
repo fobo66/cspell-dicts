@@ -16,8 +16,8 @@
     "sync": "pnpm cpy \"node_modules/dictionary-et/index.{aff,dic}\" src",
     "compile": "cspell-tools-cli build",
     "conditional-build": "pnpm run sync && pnpm run build --conditional && pnpm gz",
-    "test-dict": "hunspell-reader words -n 10000 \"src/index.dic\" | cspell -v -c ./cspell-ext.json --locale=et --languageId=* stdin",
-    "test-text": "cspell -v -c ./cspell-ext.json --locale=et --languageId=* \"samples/**\"",
+    "test-dict": "pipe-cmds \"hunspell-reader words -n 10000 \\\"src/index.dic\\\"\" \"cspell -c ./cspell-ext.json --locale=et --languageId=* stdin\"",
+    "test-text": "cspell -c ./cspell-ext.json --locale=et --languageId=* \"samples/**\"",
     "test": "pnpm run test-dict && pnpm run test-text",
     "gz": "cspell-tools-cli gzip \"*.trie\"",
     "prepare:dictionary": "pnpm gz",
@@ -25,7 +25,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/streetsidesoftware/cspell-dicts.git"
+    "url": "https://github.com/streetsidesoftware/cspell-dict.git",
+    "directory": "dictionaries/et-EE"
   },
   "keywords": [
     "cspell",
@@ -34,7 +35,7 @@
     "dictionary",
     "spelling"
   ],
-  "author": "Jason Dent",
+  "author": "Street Side Software <support@streetsidesoftware.nl>",
   "license": "LGPL-3.0+",
   "bugs": {
     "url": "https://github.com/streetsidesoftware/cspell-dicts/issues"

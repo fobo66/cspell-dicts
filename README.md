@@ -101,6 +101,7 @@ Various [cspell](https://github.com/streetsidesoftware/cspell) dictionaries. Eac
 - [SQL](dictionaries/sql)
 - [Svelte](dictionaries/svelte)
 - [Swift](dictionaries/swift)
+- [Terraform](dictionaries/terraform)
 - [TypeScript and JavaScript](dictionaries/typescript)
 - [Vue](dictionaries/vue)
 - [Win32](dictionaries/win32)
@@ -180,6 +181,7 @@ Various [cspell](https://github.com/streetsidesoftware/cspell) dictionaries. Eac
 | [@cspell/dict-gaming-terms](./dictionaries/gaming-terms#readme)                     | gaming-terms                                                            | Gaming                             | Gaming dictionary for cspell.                                  |
 | [@cspell/dict-git](./dictionaries/git#readme)                                       | git                                                                     | git                                | CSpell configuration for GIT                                   |
 | [@cspell/dict-golang](./dictionaries/golang#readme)                                 | golang                                                                  | Go Language                        | Go Language Dictionary                                         |
+| [@cspell/dict-grc](./dictionaries/grc_GR#readme)                                    | grc                                                                     | Ancient Greek                      | Ancient Greek dictionary for cspell.                           |
 | [@cspell/dict-haskell](./dictionaries/haskell#readme)                               | haskell                                                                 | Haskell                            | Haskell dictionary for cspell.                                 |
 | [@cspell/dict-he](./dictionaries/he#readme)                                         | he                                                                      | Hebrew Dictionary                  | Hebrew Dictionary                                              |
 | [@cspell/dict-hr-hr](./dictionaries/hr_HR#readme)                                   | hr-hr                                                                   | Croatian                           | Croatian dictionary for cspell.                                |
@@ -189,6 +191,7 @@ Various [cspell](https://github.com/streetsidesoftware/cspell) dictionaries. Eac
 | [@cspell/dict-id-id](./dictionaries/id_ID#readme)                                   | id-id                                                                   | Indonesia                          | Indonesia dictionary for cspell.                               |
 | [@cspell/dict-it-it](./dictionaries/it_IT#readme)                                   | it-it                                                                   | Italian                            | Italian dictionary for cspell.                                 |
 | [@cspell/dict-java](./dictionaries/java#readme)                                     | java                                                                    | Java                               | Java dictionary for cspell.                                    |
+| [@cspell/dict-julia](./dictionaries/julia#readme)                                   | julia                                                                   | Julia Dictionary                   | Julia function and keyword dictionary                          |
 | [@cspell/dict-k8s](./dictionaries/k8s#readme)                                       | k8s                                                                     | k8s                                | K8s dictionary for cspell.                                     |
 | [@cspell/dict-kotlin](./dictionaries/kotlin#readme)                                 | kotlin                                                                  | Kotlin                             | Kotlin dictionary for cspell.                                  |
 | [@cspell/dict-la](./dictionaries/la#readme)                                         | la                                                                      | Latin                              | Latin dictionary for cspell.                                   |
@@ -232,6 +235,7 @@ Various [cspell](https://github.com/streetsidesoftware/cspell) dictionaries. Eac
 | [@cspell/dict-sv](./dictionaries/sv#readme)                                         | sv                                                                      | Swedish Dictionary                 | Swedish Dictionary                                             |
 | [@cspell/dict-svelte](./dictionaries/svelte#readme)                                 | svelte                                                                  | Svelte                             | Svelte dictionary for cspell.                                  |
 | [@cspell/dict-swift](./dictionaries/swift#readme)                                   | swift                                                                   | Swift                              | Swift dictionary for cspell.                                   |
+| [@cspell/dict-terraform](./dictionaries/terraform#readme)                           | terraform                                                               | Terraform                          | Terraform dictionary for cspell.                               |
 | [@cspell/dict-tr-tr](./dictionaries/tr_TR#readme)                                   | tr-tr                                                                   | Turkish                            | Turkish dictionary for cspell.                                 |
 | [@cspell/dict-typescript](./dictionaries/typescript#readme)                         | typescript                                                              | TypeScript                         | TypeScript and JavaScript dictionary for cspell.               |
 | [@cspell/dict-uk-ua](./dictionaries/uk_UA#readme)                                   | uk-ua                                                                   | Ukrainian Dictionary               | Ukrainian Dictionary                                           |

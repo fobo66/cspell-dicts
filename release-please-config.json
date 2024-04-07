@@ -262,6 +262,10 @@
             "component": "@cspell/dict-golang",
             "releaseType": "node"
         },
+        "dictionaries/grc_GR": {
+            "component": "@cspell/dict-grc",
+            "releaseType": "node"
+        },
         "dictionaries/haskell": {
             "component": "@cspell/dict-haskell",
             "releaseType": "node"
@@ -296,6 +300,10 @@
         },
         "dictionaries/java": {
             "component": "@cspell/dict-java",
+            "releaseType": "node"
+        },
+        "dictionaries/julia": {
+            "component": "@cspell/dict-julia",
             "releaseType": "node"
         },
         "dictionaries/k8s": {
@@ -468,6 +476,10 @@
         },
         "dictionaries/swift": {
             "component": "@cspell/dict-swift",
+            "releaseType": "node"
+        },
+        "dictionaries/terraform": {
+            "component": "@cspell/dict-terraform",
             "releaseType": "node"
         },
         "dictionaries/tr_TR": {
