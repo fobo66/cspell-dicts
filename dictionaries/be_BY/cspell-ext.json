@@ -10,7 +10,11 @@
         {
             "name": "be-by",
             "path": "./dict/be-by.trie",
-            "description": "Belarusian dictionary for cspell."
+            "description": "Belarusian dictionary for cspell.",
+            "dictionaryInformation": {
+                "locale": "be-BY",
+                "alphabet": "A-Za-zÄÇÉËÏÑÔÖÜßäçéëïñôöüʼІЇА-ЩЬЮ-щьюЯяіҐґЎў"
+            }
         }
     ],
     // Dictionaries to always be used.
@@ -25,7 +29,7 @@
             "languageId": "*",
             // Language locale. i.e. en-US, de-AT, or ru. * will match all locales.
             // Multiple locales can be specified like: "en, en-US" to match both English and English US.
-            "locale": "be",
+            "locale": "be, be-BY",
             // By default the whole text of a file is included for spell checking
             // Adding patterns to the "includeRegExpList" to only include matching patterns
             "includeRegExpList": [],
