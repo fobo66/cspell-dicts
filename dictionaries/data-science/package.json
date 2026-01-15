@@ -1,6 +1,6 @@
 {
   "name": "@cspell/dict-data-science",
-  "version": "1.0.11",
+  "version": "2.0.0",
   "description": "Data Science dictionary for cspell. -- Private until verified",
   "publishConfig": {
     "access": "public"
@@ -18,7 +18,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/streetsidesoftware/cspell-dicts.git"
+    "url": "https://github.com/streetsidesoftware/cspell-dict.git",
+    "directory": "dictionaries/data-science"
   },
   "keywords": [
     "cspell",
@@ -28,7 +29,7 @@
     "dictionary",
     "spelling"
   ],
-  "author": "Jason Dent",
+  "author": "Street Side Software <support@streetsidesoftware.nl>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/streetsidesoftware/cspell-dicts/issues"
@@ -37,7 +38,7 @@
   "devDependencies": {},
   "dependencies": {},
   "files": [
-    "dict/data-science.txt",
+    "dict/data-science*.txt",
     "cspell-ext.json",
     "*.js",
     "*.d.ts"

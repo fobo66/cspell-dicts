@@ -1155,6 +1155,7 @@ freeze
 frenchtojd
 frequency
 fribidi_log2vis
+friendsofphp
 from
 fs
 fscanf
@@ -1397,6 +1398,7 @@ hash_hmac
 hash_hmac_file
 hasnextimage
 haspreviousimage
+hautelook
 head
 header
 headers
@@ -1432,6 +1434,7 @@ html
 htmlentities
 htmlspecialchars
 http
+httplug
 hw
 hwapi
 hwapi_hgcsp
@@ -2127,7 +2130,6 @@ ncurses_slk_noutrefresh
 ncurses_standend
 ncurses_termattrs
 ncurses_termname
-ncurses_typeahead
 ncurses_ungetch
 ncurses_ungetmouse
 ncurses_vidattr
@@ -2155,6 +2157,7 @@ neg
 negate
 negative
 negotiated
+nelmio
 network
 neuron
 neurons
@@ -2426,6 +2429,7 @@ phar
 php
 phpapi
 phpcredits
+phpcs
 phpdoc
 phpinfo
 phpmd
@@ -3453,6 +3457,7 @@ tunnel
 tx
 txn
 type
+typeahead
 typeinfo
 typelib
 types

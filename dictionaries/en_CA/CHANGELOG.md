@@ -1,5 +1,33 @@
 # Changelog
 
+## [1.0.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-ca@1.0.10...@cspell/dict-en-ca@1.0.11) (2024-02-19)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/streetsidesoftware/cspell-dicts/issues/2999)) ([be5878e](https://github.com/streetsidesoftware/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+
+## [1.0.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-ca@1.0.9...@cspell/dict-en-ca@1.0.10) (2024-02-09)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2982](https://github.com/streetsidesoftware/cspell-dicts/issues/2982)) ([28d4083](https://github.com/streetsidesoftware/cspell-dicts/commit/28d4083c238b330772186ff7bb25f8ace97e8e61))
+
+## [1.0.9](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-ca@1.0.8...@cspell/dict-en-ca@1.0.9) (2024-01-29)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2963](https://github.com/streetsidesoftware/cspell-dicts/issues/2963)) ([e5b5682](https://github.com/streetsidesoftware/cspell-dicts/commit/e5b5682e112fe8f888a399016932972fc7763aa2))
+
+## [1.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-ca@1.0.7...@cspell/dict-en-ca@1.0.8) (2023-12-30)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2864](https://github.com/streetsidesoftware/cspell-dicts/issues/2864)) ([5e5568d](https://github.com/streetsidesoftware/cspell-dicts/commit/5e5568d503419eab84d56770823d4a683b40d4c9))
+
 ## [1.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-ca@1.0.6...@cspell/dict-en-ca@1.0.7) (2023-11-19)
 
 

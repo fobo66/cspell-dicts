@@ -167,6 +167,7 @@ extract-text-webpack-plugin
 fast-csv
 fast-glob
 fast-plist
+fastify
 fibers
 figlet
 firebase
@@ -513,8 +514,13 @@ normalize
 npm
 npm-check
 npm-check-updates
+npm-package-json-lint
 npm-run-all
 npm-windows-upgrade
+npmcli
+npmpackagejsonlint
+npmpackagejsonlintignore
+npmpackagejsonlintrc
 nsp
 numeral
 nunjucks
@@ -550,6 +556,7 @@ phantomjs
 phantomjs-prebuilt
 phonegap
 pi-gpio
+pino
 pm2
 pnpify
 pnpm

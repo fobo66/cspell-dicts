@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.31](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.30...@cspell/dict-companies@3.0.31) (2024-01-18)
+
+
+### Updates and Bug Fixes
+
+* add Fastify and pino to libraries; Yassir to companies ([#2933](https://github.com/streetsidesoftware/cspell-dicts/issues/2933)) ([1ed808b](https://github.com/streetsidesoftware/cspell-dicts/commit/1ed808b4206ef131ed74d936bd8b8440e925e6c8))
+* Workflow Bot -- Build Dictionaries ([#2938](https://github.com/streetsidesoftware/cspell-dicts/issues/2938)) ([8ee345f](https://github.com/streetsidesoftware/cspell-dicts/commit/8ee345f662d36f170d46fca959f6245de9c7d91c))
+
+## [3.0.30](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.29...@cspell/dict-companies@3.0.30) (2024-01-15)
+
+
+### Updates and Bug Fixes
+
+* Add AdGuard to companies ([#2922](https://github.com/streetsidesoftware/cspell-dicts/issues/2922)) ([80ddf7c](https://github.com/streetsidesoftware/cspell-dicts/commit/80ddf7cf1158fff12c34c4651dd6b744f513faf0))
+* add DÜRR and HOMAG to companies ([#2904](https://github.com/streetsidesoftware/cspell-dicts/issues/2904)) ([6ad56da](https://github.com/streetsidesoftware/cspell-dicts/commit/6ad56daccf4976ca49f9824f5baaf4212aed5cdf))
+* Workflow Bot -- Build Dictionaries ([#2908](https://github.com/streetsidesoftware/cspell-dicts/issues/2908)) ([7de1cd4](https://github.com/streetsidesoftware/cspell-dicts/commit/7de1cd4566022d6a84b7e259d6e339237abeff8f))
+* Workflow Bot -- Build Dictionaries ([#2923](https://github.com/streetsidesoftware/cspell-dicts/issues/2923)) ([32be666](https://github.com/streetsidesoftware/cspell-dicts/commit/32be666d99a24ddcfe881003e29f19a5f2a5abb0))
+
+## [3.0.29](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.28...@cspell/dict-companies@3.0.29) (2023-12-25)
+
+
+### Updates and Bug Fixes
+
+* [companies] Add some company names ([#2837](https://github.com/streetsidesoftware/cspell-dicts/issues/2837)) ([d0c7542](https://github.com/streetsidesoftware/cspell-dicts/commit/d0c7542ebe253fe412cff7d0f4fc5ad387a6672c))
+* Workflow Bot -- Build Dictionaries ([#2843](https://github.com/streetsidesoftware/cspell-dicts/issues/2843)) ([d430c85](https://github.com/streetsidesoftware/cspell-dicts/commit/d430c8564e2238615ebc0a83aeaa941a499b9360))
+
 ## [3.0.28](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.27...@cspell/dict-companies@3.0.28) (2023-11-19)
 
 

@@ -103,6 +103,7 @@ IETF
 IFTTT
 InSpec
 Initializers
+IntelliJ
 Itanium
 JBoss
 JOSM
@@ -110,6 +111,7 @@ JavaScript
 JavaScriptReact
 Jekylling
 Jekyllrb
+Jetbrains
 Jetifier
 Jira
 Joyent
@@ -222,6 +224,7 @@ SQLite
 SaaS
 Secretlint
 Sharpier
+SlackAPI
 SmartOS
 SoftLayer
 Solaris
@@ -237,6 +240,7 @@ TeamCity
 Terraform
 Theming
 Trello
+Trivy
 TypeScript
 TypeScriptReact
 Typedef
@@ -328,6 +332,7 @@ addon
 addons
 addr
 adhoc
+administrability
 aggregation
 aggregations
 aggregator
@@ -377,6 +382,7 @@ args
 argv
 ariakit
 arial
+arity
 array
 arraylength
 asc
@@ -396,6 +402,7 @@ atime
 atob
 attr
 attrs
+auditability
 auditable
 auditpol
 auth
@@ -406,6 +413,7 @@ autocomplete
 autocompleted
 autocompletion
 autoconf
+autoconfigure
 autodetect
 autoformat
 autoformats
@@ -426,6 +434,9 @@ autosaves
 autosaving
 autostart
 autosuggest
+autowire
+autowired
+autowiring
 awaitable
 awaitables
 backend
@@ -499,6 +510,8 @@ bzip
 c
 cacert
 cache
+cacheability
+cacheable
 cacher
 calc
 calcs
@@ -552,6 +565,8 @@ codeql
 codium
 colliders
 colno
+colocate
+colocated
 colorize
 colorized
 colorizer
@@ -571,6 +586,9 @@ committish
 commonjs
 compile
 compiler
+componentization
+componentize
+composability
 composable
 concurrency
 conda
@@ -582,6 +600,7 @@ config
 configmaps
 configs
 configstore
+configurability
 console
 const
 consts
@@ -623,6 +642,7 @@ ctrl
 ctrlc
 cube
 cuberoot
+customizability
 customizable
 customizables
 cvss
@@ -630,6 +650,7 @@ cyber
 cybersecurity
 cycle
 cycles
+cyclomatic
 cygwin
 cypher
 daemonize
@@ -644,6 +665,7 @@ databases
 dataloader
 dataset
 datasets
+datasources
 dcopy
 ddmmyyyy
 deadlock
@@ -730,6 +752,7 @@ dequeueing
 dequeuing
 deref
 dereference
+dereferenceable
 dereferenced
 dereferences
 dereferencing
@@ -769,6 +792,10 @@ devtools
 dhcp
 dhparam
 diags
+diarization
+diarize
+diarized
+diarizes
 dict
 dicts
 diff
@@ -780,6 +807,7 @@ dirent
 dirname
 dirnames
 dirs
+discoverability
 discoverd
 discretization
 discretizations
@@ -788,6 +816,7 @@ discretized
 discretizes
 discretizing
 dist
+distributability
 dll
 dlls
 dmesg
@@ -869,7 +898,9 @@ eslint
 etcd
 ethtool
 eval
+evaluatable
 event
+evolvability
 executables
 exherbo
 expect
@@ -941,6 +972,7 @@ githubusercontent
 gitignore
 gitignored
 gitkeep
+gitleaksignore
 gitlens
 glibc
 global
@@ -1017,6 +1049,7 @@ icmp
 iconv
 id
 idempotence
+idempotency
 idempotent
 ident
 identicon
@@ -1041,6 +1074,7 @@ incrementally
 incrementor
 infer
 infiniband
+inflector
 influxdb
 info
 ingres
@@ -1059,7 +1093,9 @@ inliner
 inlining
 inode
 inputfield
+inspectability
 install
+installability
 instance
 instanced
 instantiable
@@ -1198,6 +1234,7 @@ ln
 local
 locale
 localhost
+localizability
 lock
 locked
 lockfile
@@ -1312,11 +1349,13 @@ mmddyyyy
 mmistakes
 mmyyyy
 mocha
+modifiability
 modinfo
 modprobe
 modstat
 mongod
 monit
+monitorability
 monorepo
 monorepos
 monospace
@@ -1483,6 +1522,7 @@ pkzipped
 pkzips
 plaintext
 plist
+pluggable
 plugin
 plugins
 png
@@ -1537,6 +1577,7 @@ process
 processed
 processes
 procfs
+producibility
 productization
 productizations
 productize
@@ -1608,7 +1649,9 @@ ref
 refactor
 refactored
 refactoring
+refactorings
 reference
+referenceable
 referencer
 refetch
 refetching
@@ -1758,11 +1801,13 @@ scutil
 sddm
 sdk
 sdks
+seamlessness
 searchability
 secedit
 secretlintignore
 section
 sections
+securability
 selinux
 semaphore
 semaphores
@@ -1839,6 +1884,8 @@ stdout
 stmt
 storagectl
 strace
+strategize
+strategizing
 streetsidesoftware
 stringification
 stringified
@@ -1863,6 +1910,7 @@ submodule
 submodules
 subnode
 subnodes
+subpackage
 subpath
 subpixel
 subprocess
@@ -1904,6 +1952,7 @@ systemctl
 systemd
 tabbable
 taggable
+tailorability
 tan
 telegraf
 telnetd
@@ -1980,6 +2029,7 @@ trex
 trie
 tries
 tripleslash
+trivyignore
 trust
 trusted
 trusting
@@ -1989,6 +2039,7 @@ tslib
 tslint
 tsmerge
 tsserver
+typeahead
 typechecking
 typeid
 typename
@@ -2118,6 +2169,7 @@ upcases
 upcasing
 updatable
 updateready
+upgradability
 uploader
 upstreams
 uri
@@ -2171,6 +2223,8 @@ vmnic
 vmstat
 vmtools
 vmtoolsd
+voxel
+voxels
 vsce
 vscode
 vscodium

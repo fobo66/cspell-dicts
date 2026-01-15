@@ -222,6 +222,10 @@
             "component": "@cspell/dict-fa-ir",
             "releaseType": "node"
         },
+        "dictionaries/fi_FI": {
+            "component": "@cspell/dict-fi-fi",
+            "releaseType": "node"
+        },
         "dictionaries/filetypes": {
             "component": "@cspell/dict-filetypes",
             "releaseType": "node"
@@ -258,6 +262,10 @@
             "component": "@cspell/dict-golang",
             "releaseType": "node"
         },
+        "dictionaries/grc_GR": {
+            "component": "@cspell/dict-grc",
+            "releaseType": "node"
+        },
         "dictionaries/haskell": {
             "component": "@cspell/dict-haskell",
             "releaseType": "node"
@@ -278,6 +286,14 @@
             "component": "@cspell/dict-html",
             "releaseType": "node"
         },
+        "dictionaries/hu_HU": {
+            "component": "@cspell/dict-hu-hu",
+            "releaseType": "node"
+        },
+        "dictionaries/id_ID": {
+            "component": "@cspell/dict-id-id",
+            "releaseType": "node"
+        },
         "dictionaries/it_IT": {
             "component": "@cspell/dict-it-it",
             "releaseType": "node"
@@ -286,12 +302,20 @@
             "component": "@cspell/dict-java",
             "releaseType": "node"
         },
+        "dictionaries/julia": {
+            "component": "@cspell/dict-julia",
+            "releaseType": "node"
+        },
         "dictionaries/k8s": {
             "component": "@cspell/dict-k8s",
             "releaseType": "node"
         },
         "dictionaries/kotlin": {
             "component": "@cspell/dict-kotlin",
+            "releaseType": "node"
+        },
+        "dictionaries/la": {
+            "component": "@cspell/dict-la",
             "releaseType": "node"
         },
         "dictionaries/latex": {
@@ -452,6 +476,10 @@
         },
         "dictionaries/swift": {
             "component": "@cspell/dict-swift",
+            "releaseType": "node"
+        },
+        "dictionaries/terraform": {
+            "component": "@cspell/dict-terraform",
             "releaseType": "node"
         },
         "dictionaries/tr_TR": {

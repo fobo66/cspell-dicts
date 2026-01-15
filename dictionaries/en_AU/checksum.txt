@@ -1,7 +1,7 @@
-009776069e81045eed53b6dc06847b5009a12e63  en_AU.trie
-3c7a1fcc26f9bc2ce8cbdeb895f66de348fbebbb  node_modules/@cspell/dict-en-shared/src/shared-additional-words.txt
+a2dba9b3ffb89e892bb9cf949f8c6214f8c9a3a9  en_AU.trie
+7a790d535c359fbf10a321eedd489b4b615daaa5  node_modules/@cspell/dict-en-shared/src/shared-additional-words.txt
 b18dfb4f67e28a7e5ef1850dd1aceef880ac3331  src/additional_words.txt
-e22be4b305584c419dbfdad2f69bfa1bb181d239  src/aoo-mozilla-en-dict/en_AU.aff
+bf973d4e9a056973925e9fa15834d83ac3c8a7c6  src/aoo-mozilla-en-dict/en_AU.aff
 21191f1108e608d1b96076d141586fccd6c79a1c  src/aoo-mozilla-en-dict/en_AU.dic
 e22be4b305584c419dbfdad2f69bfa1bb181d239  src/hunspell-en_AU-large/en_AU-large.aff
 d81a3ca0b48c0653a48de7b76a68c8a2d40f2de5  src/hunspell-en_AU-large/en_AU-large.dic

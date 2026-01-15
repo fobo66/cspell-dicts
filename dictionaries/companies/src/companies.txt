@@ -20,6 +20,7 @@ Activision Blizzard
 ADBE
 Adblock
 Adecco Group
+AdGuard
 Adobe Inc.
 ADSK
 Advance Auto Parts
@@ -220,6 +221,7 @@ Bharat Petroleum
 BHP Billiton
 Big Lots, Inc.
 BIIB
+Bimbo Bakeries USA
 Bing
 Bio-Rad Laboratories
 Biogen Idec Inc.
@@ -548,6 +550,7 @@ Duke University
 DuPont
 DuPont de Nemours Inc
 Durham University
+DÜRR
 DXC Technology
 DXCM
 DZ Bank
@@ -798,6 +801,7 @@ HollyFrontier Corp
 HollyFrontier Corporation
 Hologic
 HOLX
+HOMAG
 Home Depot
 Hon Hai Precision Industry
 Honda Motor
@@ -1276,6 +1280,7 @@ NRG Energy
 NRG Energy, Inc.
 NTAP
 NTRS
+Nubity Inc.
 Nucor Corp.
 Nucor Corporation
 Nullsoft
@@ -1565,6 +1570,7 @@ SIVB
 SK Holdings
 Skyworks Solutions
 SL Green Realty
+Slevomat
 SLM Corporation
 Smania University
 Smarty
@@ -2047,6 +2053,7 @@ Yahoo
 Yale University
 Yamada Denki
 Yandex
+Yassir
 Yeshiva University
 Yext
 Yleisradio Oy

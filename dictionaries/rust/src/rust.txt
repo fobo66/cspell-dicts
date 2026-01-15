@@ -7,7 +7,7 @@ as
 assert
 assert_eq
 become
-BitAdd
+BitAnd
 BitOr
 BitXor
 bool
@@ -61,6 +61,7 @@ millis
 mod
 move
 mpsc
+msrv
 Mul
 mut
 mutex
@@ -82,6 +83,7 @@ ref
 RefCell
 Rem
 return
+rustfmt
 self
 Self
 serde

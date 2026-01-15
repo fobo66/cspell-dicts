@@ -73,6 +73,7 @@ GitHub
 Gitkraken
 GitLab
 Gitleaks
+gitleaksignore
 Gitpod
 GKE
 GMail
@@ -101,6 +102,8 @@ ifttt
 IFTTT
 initramfs
 InSpec
+IntelliJ
+Jetbrains
 Jira
 JOSM
 journald
@@ -207,6 +210,7 @@ sddm
 Secretlint
 secretlintignore
 Sharpier
+SlackAPI
 SmartOS
 snmpd
 snmptrapd
@@ -228,6 +232,8 @@ textmate
 tmux
 Trello
 trex
+Trivy
+trivyignore
 tzinfo
 tzutil
 ubound
